@@ -1,0 +1,224 @@
+# Seth Speaks — Chapter 4 extraction
+# Reincarnational dramas. Distinctions-first; camouflage stack pressure-tested.
+
+# --- Distinctions ---
+
+- id: sequential-time-vs-simultaneous-lives
+  label: Sequential Time vs Simultaneous Lives
+  type: Distinction
+  axis: [time-as-moment-series, lives-simultaneous]
+  table:
+    - [Moments one after another; lives in a line from past to future, All reincarnational plays exist basically at one time]
+    - [Communications from “dead” intensify false linear time, Communicators may only be in the wings of another production]
+    - [Progress of race measured along the timeline, Progress = psychic/spiritual focus; not chronological advance]
+  source: Seth Speaks, Chapter 4
+
+- id: past-cause-vs-simultaneous-learning
+  label: Past-Life Cause vs Simultaneous Learning
+  type: Distinction
+  axis: [linear-past-causes-present, simultaneous-mutual-learning]
+  table:
+    - [This life caused/punished by a previous one, Lives simultaneous; not punishment for past crimes]
+    - [Rigid past patterns determine present, Multidimensional personality learns through concurrent plays with feedback]
+    - [Mercy of outside agency or karmic sentence, You write the script; choose parents/settings; not under pall of original sin/Freud/past-life determinism]
+  source: Seth Speaks, Chapter 4
+
+- id: chronological-progress-vs-psychic-focus
+  label: Chronological Progress vs Psychic Focus
+  type: Distinction
+  axis: [progress-as-time-advance, progress-as-psychic-focus]
+  table:
+    - [Race must have progressed since Middle Ages / tech proves advance, Progress not in time terms you assume; time itself not as assumed]
+    - [Great artists emerged because born into favorable times, Play concerned with actualizing intuitive truth; focus directed toward ends]
+    - [Linear improvement of species, Each play different; challenges differ; great themes as beacons]
+  source: Seth Speaks, Chapter 4
+
+- id: play-props-vs-play-serious
+  label: Props-Aware vs Play Taken Seriously
+  type: Distinction
+  axis: [dismiss-as-mere-props, take-role-seriously]
+  table:
+    - [Seeing props means the play is unreal/unimportant, Play is real and to be taken seriously — still a role]
+    - [Escape by denial of the production, Actualize out of 3D confines while fulfilling the role]
+    - [Camouflage as trash scenery, Camouflage composed of vitality of the universe]
+  source: Seth Speaks, Chapter 4
+
+- id: info-from-without-vs-within
+  label: Information From Without vs From Within
+  type: Distinction
+  axis: [all-info-from-without, info-also-from-within]
+  table:
+    - [All perception via physical senses only, Inner senses / inner guideline supply knowledge beyond the production]
+    - [Forced intense focus on play actions only, Sleep/dream and piercing moments reveal other roles and prop nature]
+    - [Environment objective and independent of you, Real environment = thoughts and emotions; form this and other realities]
+  source: Seth Speaks, Chapter 4
+
+- id: actor-role-vs-multidimensional-identity
+  label: Actor Role vs Multidimensional Identity
+  type: Distinction
+  axis: [identify-as-this-actor-only, identity-as-multidimensional-self]
+  table:
+    - [You are only the conscious twentieth-century role, True identity conscious of itself in any role and other realities]
+    - [Other reincarnational selves unconscious or mere past, Other portions also conscious in their plays]
+    - [Soul = the book-reading self, Soul/entity is not the self that reads this book]
+  source: Seth Speaks, Chapter 4
+
+# --- Mechanisms / Concepts ---
+
+- id: reincarnational-drama
+  label: Reincarnational Drama
+  type: Mechanism/Process
+  summary: Multidimensional personality creates and acts in simultaneous “period piece” plays (reincarnational lives) under agreed root assumptions; learns through actions, poses, and feedback without linear cause-from-past.
+  source: Seth Speaks, Chapter 4
+  first_appearance: Seth Speaks, Chapter 4
+  dependencies: [multidimensional-personality, root-assumptions, sequential-time-vs-simultaneous-lives]
+  relates_to: [past-cause-vs-simultaneous-learning, entity, fragment-selves, dreaming-knowing]
+  quotes:
+    - "these creative period pieces represent what you would call reincarnational lives. They all exist basically at one time."
+    - "It is not correct, therefore, to suppose that your actions in this life are caused by a previous existence, or that you are being punished in this life for crimes in a past one."
+  status: partial
+  notes: Drama analogy is pedagogy; do not mint Theatre as ontology. Observers and fully-aware role-takers deferred in detail.
+
+- id: play-root-assumptions
+  label: Play Root Assumptions (Reincarnational Frame)
+  type: Concept
+  summary: Agreed framework for the physical/reincarnational play — time as moment series; objective world independent of creation/perception; bound within donned bodies; limited by time/space; all perception from without via physical senses.
+  source: Seth Speaks, Chapter 4
+  first_appearance: Seth Speaks, Chapter 4
+  dependencies: [root-assumptions]
+  relates_to: [camouflage, physical-senses, sequential-time-vs-simultaneous-lives, info-from-without-vs-within]
+  quotes:
+    - "The assumptions are that time is a series of moments one after another; that an objective world exists quite independently of your own creation and perception of it; that you are bound within the physical bodies that you have donned; and that you are limited by time and space."
+  status: stable
+  tags: [epistemology]
+  notes: Thickens Ch.3 root-assumptions with an explicit set. Candidate material for senses/root-assumptions stack guide — do not merge into camouflage node.
+
+- id: entity-actualizes-in-3d
+  label: Entity Actualizes Through 3D Roles
+  type: Mechanism/Process
+  summary: Multidimensional self/entity must materialize a portion within 3D to act there; opens creativity impossible otherwise; then must propel itself out via further actualization; 3D self raises achievement by rediscovering relation to entity; entity strengthened by what was actualized.
+  source: Seth Speaks, Chapter 4
+  first_appearance: Seth Speaks, Chapter 4
+  dependencies: [entity, multidimensional-personality, form-follows-consciousness]
+  relates_to: [actor-role-vs-multidimensional-identity, consciousness-as-self-vs-attribute, you-create-your-physical-reality]
+  quotes:
+    - "The multidimensional self cannot act within three-dimensional reality until it materializes a portion of itself within it."
+    - "You are learning to be cocreators. You are learning to be gods as you now understand the term."
+  status: partial
+
+- id: aware-role-guides
+  label: Aware Role Guides
+  type: Concept
+  summary: Personalities from other levels who take roles knowingly to lead actors toward realization; oversee the play and open psychological doorways for further development beyond the system.
+  source: Seth Speaks, Chapter 4
+  first_appearance: Seth Speaks, Chapter 4
+  dependencies: [reincarnational-drama]
+  relates_to: [seth-identity, teacher-pupil-prep]
+  quotes:
+    - "There are those who appear within these plays fully aware. These personalities willingly take roles, knowing that they are roles..."
+  status: partial
+  tags: [pedagogy]
+  notes: Thin; later chapters may thicken. Do not equate automatically with Seth without care.
+
+- id: sleep-refresh-beyond-play
+  label: Sleep Refresh Beyond the Play
+  type: Mechanism/Process
+  summary: Periods within the play (coinciding with sleep/dreaming, and sometimes waking piercings) when the actor is informed via inner senses of other roles, remembers co-authorship, and sees props as props — without making the play unreal.
+  source: Seth Speaks, Chapter 4
+  first_appearance: Seth Speaks, Chapter 4
+  dependencies: [inner-senses, dreaming-knowing, reincarnational-drama]
+  relates_to: [play-props-vs-play-serious, dream-environment-manipulation, info-from-without-vs-within]
+  quotes:
+    - "There are periods set and allowed for within the play itself in which each actor retires in order to refresh himself."
+  status: partial
+
+- id: senses-as-camouflage-lenses
+  label: Physical Senses as Camouflage Lenses
+  type: Assertion
+  summary: Physical senses largely form the physical reality they seem only to perceive; they are part of camouflage — lenses over natural inner perceptions forcing an available field to be seen as physical matter; reliable only superficially (positions, clock time).
+  source: Seth Speaks, Chapter 4
+  first_appearance: Seth Speaks, Chapter 4
+  dependencies: [physical-senses, camouflage, creation-perception-intimacy]
+  relates_to: [physical-senses-vs-inner-senses, physical-reality-purposive-form, play-props-vs-play-serious]
+  quotes:
+    - "In a large manner, the physical senses actually form the physical reality they seem to only perceive. They are themselves part of the camouflage, but they are like lenses over your natural inner perceptions..."
+  status: stable
+  notes: Angle pass on physical-reality status stack — adds constraint (senses as camouflage lenses), not mere rebrand. Pressure-test against SG-physical-reality-status.
+
+- id: living-camouflage-webs
+  label: Living Camouflage Webs
+  type: Assertion
+  summary: Rocks, stones, mountains, earth are living camouflage — interlocking psychic webs formed by minute consciousnesses; atoms/molecules have consciousness; camouflage composed of the vitality of the universe.
+  source: Seth Speaks, Chapter 4
+  first_appearance: Seth Speaks, Chapter 4
+  dependencies: [camouflage, no-dead-matter, cooperative-consciousness]
+  relates_to: [physical-reality-purposive-form, creation-perception-intimacy]
+  quotes:
+    - "Yet these camouflages are composed of the vitality of the universe."
+    - "The rocks and stones and mountains and earth are living camouflage, interlocking psychic webs formed by minute consciousnesses..."
+  status: stable
+  notes: Reinforces Pass A + no-dead-matter; vitality-within made vivid. Ledger candidate Pass D on physical-reality stack if promoted.
+
+- id: real-environment-thoughts-emotions
+  label: Real Environment Is Thoughts and Emotions
+  type: Assertion
+  summary: Your real environment is composed of thoughts and emotions — from these you form this reality and each reality you take part in; innocent of space/time as known; communication instantaneous; physical world formed from that level.
+  source: Seth Speaks, Chapter 4
+  first_appearance: Seth Speaks, Chapter 4
+  dependencies: [you-create-your-physical-reality, environment-as-extension-of-self]
+  relates_to: [thought-to-matter-transformation, reincarnational-drama, root-assumptions]
+  quotes:
+    - "Your real environment is composed of your thoughts and emotions, for from these you form not only this reality but each reality in which you take part."
+  status: stable
+
+- id: inner-sense-stage-exercise
+  label: Inner Sense Stage Exercise
+  type: Concept
+  summary: Practice — pretend lighted stage/room darkens; listen/see via inner senses; accept images/sounds as valid; short daily snapshots without overall judgment; info via inner senses must be translated/distorted into 3D-comprehensible terms.
+  source: Seth Speaks, Chapter 4
+  first_appearance: Seth Speaks, Chapter 4
+  dependencies: [inner-senses]
+  relates_to: [sleep-refresh-beyond-play, psychological-bridge]
+  quotes:
+    - "pretend that you are on a lighted stage... Close your eyes and pretend that the lights have gone out..."
+  status: partial
+  tags: [practice, pedagogy]
+  notes: Practice node — keep thin; methods to change environment deferred to later chapters.
+
+- id: anti-past-life-determinism
+  label: Anti Past-Life Determinism
+  type: Assertion
+  summary: You are not under sentence of original sin, Freud infancy syndromes, or rigid past-life patterns; past lives affect as any experience does, but time is open and lives are not buried disconnected; over-emphasis on reincarnational cause breeds powerlessness.
+  source: Seth Speaks, Chapter 4
+  first_appearance: Seth Speaks, Chapter 4
+  dependencies: [past-cause-vs-simultaneous-learning, you-create-your-physical-reality]
+  relates_to: [sequential-time-vs-simultaneous-lives]
+  quotes:
+    - "You are not under a sentence placed upon you for original sin, by any childhood events, or by past life experience."
+  status: stable
+
+- id: consciousness-seeks-dimensions
+  label: Consciousness Seeks Many Dimensions
+  type: Assertion
+  summary: By nature consciousness seeks to materialize in as many dimensions as possible, creating new levels and offshoots; in doing so it creates all reality; reality always becoming; lives grow from what the inner self is, not thrust by outside agency.
+  source: Seth Speaks, Chapter 4
+  first_appearance: Seth Speaks, Chapter 4
+  dependencies: [consciousness, entity]
+  relates_to: [entity-actualizes-in-3d, form-follows-consciousness, fragment-selves]
+  quotes:
+    - "By the very nature of consciousness, it seeks to materialize itself in as many dimensions as possible..."
+    - "Reality, therefore, is always in a state of becoming."
+  status: stable
+
+- id: consciousness-validity-vs-physical-impermanence
+  label: Consciousness Validity vs Physical Impermanence
+  type: Assertion
+  summary: Physical furnishings may seem permanent while the self feels vulnerable between birth and extinction; the aimed realization is the eternal validity of consciousness and the impermanence of physical environment/universe aspects that seem secure.
+  source: Seth Speaks, Chapter 4
+  first_appearance: Seth Speaks, Chapter 4
+  dependencies: [camouflage, consciousness]
+  relates_to: [continuity-focus-vs-change-focus, physical-reality-purposive-form, play-props-vs-play-serious, senses-as-camouflage-lenses]
+  quotes:
+    - "I hope you will realize the eternal validity of your own consciousness, and the impermanence of those physical aspects of your environment, and of your universe, that now seem so secure."
+  status: stable
+  notes: Closing Ch.4 claim; inverts naive solid-secure / self-fragile intuition. Book-scale hope, not yet fully argued.

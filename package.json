@@ -1,0 +1,24 @@
+{
+  "name": "sethstack",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p .",
+    "dev": "tsx src/index.ts",
+    "validate": "tsx src/index.ts validate",
+    "graph": "tsx src/index.ts graph",
+    "report": "tsx src/index.ts report",
+    "all": "npm run validate && npm run graph && npm run report"
+  },
+  "dependencies": {
+    "better-sqlite3": "9.6.0",
+    "gray-matter": "4.0.3",
+    "js-yaml": "4.1.0",
+    "zod": "3.23.8",
+    "glob": "11.0.0"
+  },
+  "devDependencies": {
+    "tsx": "4.19.2",
+    "typescript": "5.6.3"
+  }
+}

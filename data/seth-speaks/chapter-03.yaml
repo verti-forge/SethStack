@@ -1,0 +1,304 @@
+# Seth Speaks — Chapter 3 extraction
+# Distinctions-first. Work / dimensions / thought→matter.
+# Seed stub thought-to-matter-transformation retired here (was data/seeds/examples.yaml).
+
+# --- Distinctions ---
+
+- id: influence-vs-create-matter
+  label: Mind Influences Matter vs Mind Creates Matter
+  type: Distinction
+  axis: [mind-influences-matter, mind-creates-forms-matter]
+  table:
+    - [Scientists learning mind can influence matter, Mind creates and forms matter]
+    - [Matter treated as given stuff to be nudged, Matter as materialized thought/emotion]
+    - [Partial admission within physical root assumptions, Full creative primacy of consciousness]
+  source: Seth Speaks, Chapter 3
+
+- id: work-vs-play-creativity
+  label: Work vs Play as Creative Mode
+  type: Distinction
+  axis: [work-seriousness, creative-play]
+  table:
+    - [Life taken too seriously; playful existence not taken seriously enough, Creativity and consciousness born in quality of play]
+    - [Energy frittered into conflict, Energy free for unique purposes once conflict dropped]
+    - [Idleness suspected in mobility-of-consciousness games, Play blazes trails/messages others can use]
+  source: Seth Speaks, Chapter 3
+
+- id: perceived-space-vs-no-space
+  label: Perceived Space vs No Space As Such
+  type: Distinction
+  axis: [space-as-perceived, space-does-not-exist]
+  table:
+    - [Galaxies/planets at distances; travel through empty intervals, Space as you perceive it does not exist]
+    - [Illusion from physical perceptive mechanisms, Also from mental patterns adopted at a stage of system evolution]
+    - [Boundaries seem to separate environments, No space/physical boundaries between Seth’s environment and yours]
+  source: Seth Speaks, Chapter 3
+
+- id: consciousness-as-self-vs-attribute
+  label: Consciousness as Self vs Consciousness as Attribute
+  type: Distinction
+  axis: [consciousness-as-identity, consciousness-as-attribute]
+  table:
+    - [I am my consciousness (common identification), I am not my consciousness; it is an attribute to use]
+    - [Soul limited to 3D concept of awareness, Soul/entity more than consciousness; uses many kinds of consciousness]
+    - [Focus locked inside skull, Consciousness turnable like eyes toward systems]
+  source: Seth Speaks, Chapter 3
+
+- id: must-materialize-vs-mental-act-validity
+  label: Must Materialize vs Mental-Act Validity
+  type: Distinction
+  axis: [must-physically-materialize, accept-mental-acts-as-valid]
+  table:
+    - [Mental acts must become physical matter to count, Mental acts recognized in brilliant validity without rigid materialization]
+    - [Physical objects as the proof of reality, Environments primarily mental creations in many forms]
+    - [Training via intense small aspect of experience, Free travel across realities without matter breakthrough requirement]
+  source: Seth Speaks, Chapter 3
+
+- id: continuity-focus-vs-change-focus
+  label: Continuity Focus vs Change Focus
+  type: Distinction
+  axis: [continuity-similarity-focus, change-dissimilarity-focus]
+  table:
+    - [Attend to continuities/similarities; manufacture stable self/world, Attend to constant alteration (breath, atoms, hormones, EM)]
+    - [Shut out dissimilarities from a field of actuality, Dissimilarities reveal true nature of reality and environment]
+    - [Thought/memory cliff into nothingness feared, Subjective openings are psychic warps into other universes]
+  source: Seth Speaks, Chapter 3
+
+- id: illusion-vs-greater-reality-cause
+  label: Physical Illusion vs Greater-Reality Cause
+  type: Distinction
+  axis: [physical-as-mere-falsehood, physical-as-form-of-greater-reality]
+  table:
+    - [Dismiss physical as worthless fake, Illusion caused by a greater reality; has purpose and meaning]
+    - [Only waking daily life counts as purpose, Dream dimensions also work purpose with other entity portions]
+    - [One exclusive real world, Physical reality is one form reality takes]
+  source: Seth Speaks, Chapter 3
+
+# --- Mechanisms ---
+
+- id: thought-to-matter-transformation
+  label: Thought-to-Matter Transformation
+  type: Mechanism/Process
+  summary: Thoughts and emotions exist as unique electromagnetic units; intensity sets strength and permanency of the resulting physical image; humans act as automatic transformers of EM units into physical objects within a matter-concentrated system surrounded by weaker pseudomatter regions.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [electromagnetic-units-of-thought, intensity-of-thought]
+  relates_to: [body-as-thought-materialization, environment-as-extension-of-self, form-follows-consciousness, you-create-your-physical-reality, influence-vs-create-matter]
+  quotes:
+    - "Each of you act as transformers, unconsciously, automatically transforming highly sophisticated electromagnetic units into physical objects."
+    - "The intensity determines both the strength and the permanency of the physical image into which the thought or emotion will be materialized."
+  status: complete
+  notes: Chapter-level chain is specified. Deeper treatment deferred to Seth’s “own material” (other books). Pseudomatter / frequency-tuning implied by TV analogy — keep in notes unless later text hardens.
+
+- id: body-as-thought-materialization
+  label: Body as Thought Materialization
+  type: Mechanism/Process
+  summary: The inner self forms the body by transforming thoughts and emotions into physical counterparts using atoms and molecules; body condition mirrors subjective state; corporeal form is personal environment, not an imprisoning manikin casing.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [thought-to-matter-transformation, inner-ego]
+  relates_to: [form-follows-consciousness, you-create-your-physical-reality, continuity-focus-vs-change-focus]
+  quotes:
+    - "Quite literally, the \"inner self\" forms the body by magically transforming thoughts and emotions into physical counterparts."
+    - "You grow the body. Its condition perfectly mirrors your subjective state at any given time."
+  status: complete
+
+- id: environment-as-extension-of-self
+  label: Environment as Extension of Self
+  type: Mechanism/Process
+  summary: Environments are not objective conglomerations independent of you; they are extensions of yourself — materialized mental acts thrust outward from consciousness. Same rules for Seth (without ending in physical objects).
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [thought-to-matter-transformation, environment-as-perceptive-pattern]
+  relates_to: [must-materialize-vs-mental-act-validity, you-create-your-physical-reality, camouflage]
+  quotes:
+    - "environments are not objective things, conglomerations of objects that exist independently of you. Instead you form them and they are quite literally extensions of yourself"
+    - "I will tell you exactly how you form your environment. I form mine following the same rules, though you end up with physical objects and I do not."
+  status: partial
+  notes: Promise of exact how continues via EM-unit chain; “exactly how” may still deepen later.
+
+- id: emotional-counterpart-projection
+  label: Emotional Counterpart Projection
+  type: Mechanism/Process
+  summary: Thinking emotionally of another sends out a counterpart form of yourself beneath the intensity of matter, usually escaping egotistical attention; when Seth does so, a portion of consciousness can remain in the image and communicate.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [thought-to-matter-transformation, multiple-simultaneous-forms]
+  relates_to: [thermal-electromagnetic-communication, intensities-of-experience]
+  quotes:
+    - "whenever you think emotionally of another person, you send out a counterpart of yourself, beneath the intensity of matter, but a definite form."
+  status: partial
+
+- id: psychic-warp-openings
+  label: Psychic Warp Openings (Thought Trails)
+  type: Mechanism/Process
+  summary: Thoughts that leave the conscious mind do not vanish; subjective openings are psychic warps into other universes where symbols live and thoughts keep potential. Barriers at supposed danger points block exploration; dream states maintain interaction between systems.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [consciousness]
+  relates_to: [transparent-dimensional-warp, dreaming-knowing, continuity-focus-vs-change-focus]
+  quotes:
+    - "These subjective openings through which thoughts seem to disappear are in fact like psychic warps, connecting the self that you know with other universes of experience"
+  status: partial
+  notes: Relates to Ch.1 dimensional warp language but is about everyday thought-trails, not only Ruburt’s channel.
+
+# --- Concepts / Assertions ---
+
+- id: electromagnetic-units-of-thought
+  label: Electromagnetic Units of Thought
+  type: Concept
+  summary: Each thought and emotion spontaneously exists as a simple or complex electromagnetic unit with unique reality, equipped to combine with certain others by intensity ranges; not yet perceived by scientists.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [consciousness]
+  relates_to: [intensity-of-thought, thought-to-matter-transformation, thermal-electromagnetic-communication]
+  quotes:
+    - "Each emotion and thought has its own electromagnetic reality, completely unique."
+    - "Each thought and emotion spontaneously exists as a simple or complex electromagnetic unit — unperceived, incidentally, as yet by your scientists."
+  status: stable
+  tags: [mechanism-support, ontology]
+
+- id: intensity-of-thought
+  label: Intensity of Thought
+  type: Concept
+  summary: Intensity governs combination range with other EM units and determines strength and permanency of the physical image into which thought/emotion materializes.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [electromagnetic-units-of-thought]
+  relates_to: [thought-to-matter-transformation, intensities-of-experience]
+  quotes:
+    - "The intensity determines both the strength and the permanency of the physical image into which the thought or emotion will be materialized."
+  status: stable
+  tags: [mechanism-support]
+
+- id: root-assumptions
+  label: Root Assumptions
+  type: Concept
+  summary: Built-in agreements upon which a system’s ideas of existence are based (e.g. space and time). Each reality system has its own set; a teacher must use the pupil’s root assumptions to communicate.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [camouflage, physical-senses]
+  relates_to: [perceived-space-vs-no-space, psychological-bridge, seth-personality-portion]
+  quotes:
+    - "Root assumptions are those built-in ideas of reality... those agreements upon which you base your ideas of existence. Space and time, for example, are root assumptions."
+  status: stable
+  tags: [epistemology, pedagogy]
+
+- id: simultaneous-universe
+  label: Simultaneous Universe
+  type: Assertion
+  summary: Planetary systems exist at once, simultaneously in time and space; the visual/instrumental universe of distances is an interpretation of mental events intruding on three-dimensional reality — not the basic fact.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [perceived-space-vs-no-space, consciousness-creates-form]
+  relates_to: [root-assumptions, creation-perception-intimacy, camouflage]
+  quotes:
+    - "Your planetary systems exist at once, simultaneously, both in time and in space."
+    - "The universe as you know it is your interpretation of events as they intrude upon your three-dimensional reality. The events are mental."
+  status: stable
+
+- id: mind-creates-matter
+  label: Mind Creates Matter
+  type: Assertion
+  summary: Beyond influence — mind creates and forms matter; the known world is a reflection of inner reality.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [consciousness-creates-form, thought-to-matter-transformation]
+  relates_to: [influence-vs-create-matter, you-create-your-physical-reality, no-dead-matter]
+  quotes:
+    - "They still have to discover the fact that mind creates and forms matter."
+    - "the world that you know is the reflection of an inner reality."
+  status: stable
+  notes: Operationalizes Ch.1 consciousness-creates-form into matter-language; keep both — one ontological, one physical-application.
+
+- id: thoughts-do-not-disappear
+  label: Thoughts Do Not Disappear
+  type: Assertion
+  summary: A thought leaving the conscious mind does not vanish into nothingness; it continues in another direction of your reality and can be followed into other environments.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [psychic-warp-openings]
+  relates_to: [continuity-focus-vs-change-focus, dreaming-knowing]
+  quotes:
+    - "What happens to a thought when it leaves your conscious mind? It does not simply disappear."
+  status: stable
+
+- id: physical-reality-purposive-form
+  label: Physical Reality as Purposive Form
+  type: Assertion
+  summary: If physical reality is illusion in a larger sense, it is an illusion caused by a greater reality; the illusion has purpose and meaning. Better: physical reality is one form reality takes — intense training in a small aspect of experience.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [illusion-vs-greater-reality-cause, camouflage]
+  relates_to: [creation-perception-intimacy, you-create-your-physical-reality]
+  quotes:
+    - "if physical reality is in a larger sense an illusion, it is an illusion caused by a greater reality. The illusion itself has a purpose and a meaning."
+    - "Perhaps it is better to say that physical reality is one form that reality takes."
+  status: stable
+
+- id: entity-programs-personalities
+  label: Entity Programs Personalities
+  type: Concept
+  summary: Analogy only — entity/soul likened to a living creative “computer” that programs existences; each personality arrives with built-in reality idea and specialized mental equipment, yet holds condensed whole-computer knowledge in secret recesses and can break system barriers.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [entity, multidimensional-personality]
+  relates_to: [root-assumptions, fragment-selves, consciousness-as-self-vs-attribute]
+  quotes:
+    - "You may think of your soul or entity — though only briefly and for the sake of this analogy — as some conscious and living, divinely inspired computer who programs its own existences and lifetimes."
+  status: asserted
+  tags: [identity, pedagogy]
+  notes: Explicitly not literal computer. Do not promote analogy language into hard ontology without later support.
+
+- id: mental-etiquette
+  label: Mental Etiquette
+  type: Concept
+  summary: Advanced identities choose thoughts with discrimination; telepathy does not mean open-book minds — mental manners apply. Creativity of mental image/emotion inescapable; fear of negative thoughts is a past stage.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [conscious-vs-unconscious-cocreation]
+  relates_to: [thought-to-matter-transformation, thermal-electromagnetic-communication]
+  quotes:
+    - "There is such a thing as mental etiquette, mental manners."
+  status: partial
+  tags: [ethics, pedagogy]
+
+- id: cooperative-consciousness
+  label: Cooperative Nature of Consciousness
+  type: Assertion
+  summary: All consciousness and reality are cooperative; advanced identities need not hide emotions/thoughts because they recognize their part in that cooperation; en masse, psychic energy tentacles coalesce into perceived forms.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [no-dead-matter, you-create-your-physical-reality]
+  relates_to: [thought-to-matter-transformation, mental-etiquette]
+  quotes:
+    - "all of us by now well recognize the cooperative nature of all consciousness and reality, and our part in it."
+    - "In a gigantic cooperative endeavor, all consciousness joins together to make the forms that you perceive."
+  status: stable
+
+- id: dreamwork-with-entity
+  label: Dreamwork With Entity Portions
+  type: Concept
+  summary: Purpose is pursued not only in waking life but in dream dimensions, in communication with other portions of one’s entity at endeavors as valid as waking work. Contacting physical reality is analogous to entering a dream.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [dreaming-knowing, entity]
+  relates_to: [dream-environment-manipulation, seth-personality-portion, illusion-vs-greater-reality-cause]
+  quotes:
+    - "you also work at your purpose in these other dream dimensions, and you are then in communication with other portions of your own entity"
+  status: partial
+  tags: [dream, identity]
+
+- id: teacher-pupil-prep
+  label: Teacher–Pupil Psychological Prep
+  type: Concept
+  summary: Before teaching across dimensions, Seth must build preliminary psychological structures, learn pupil thought-systems and symbols, gauge stability, pace all personality levels, and often deliver early material without overt presence.
+  source: Seth Speaks, Chapter 3
+  first_appearance: Seth Speaks, Chapter 3
+  dependencies: [root-assumptions, psychological-bridge]
+  relates_to: [ruburt-identity, seth-identity]
+  quotes:
+    - "before I can begin to work I must set up preliminary psychological structures and learn to know my pupils before teaching can even begin."
+  status: partial
+  tags: [pedagogy]
+  notes: Jane childhood coaching / poetry channeling = case color; keep out of graph beyond this concept.

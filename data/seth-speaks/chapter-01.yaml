@@ -1,0 +1,301 @@
+# Seth Speaks — Chapter 1 extraction
+# High-signal nodes only. Session color / reader address kept out of the graph.
+# first_appearance: Seth Speaks, Chapter 1
+
+- id: consciousness-creates-form
+  label: Consciousness Creates Form
+  type: Assertion
+  summary: Consciousness is prior to physical form; form does not generate consciousness.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [consciousness]
+  relates_to: [you-create-your-physical-reality, no-dead-matter, camouflage]
+  quotes:
+    - "Consciousness creates form. It is not the other way around."
+  status: stable
+  notes: Foundational polarity inversion for the whole book; keep separate from the later responsibility claim (you-create-your-physical-reality).
+
+- id: you-create-your-physical-reality
+  label: You Create Your Physical Reality
+  type: Assertion
+  summary: Individuals create their own physical reality; collectively they create earthly glories and terrors. Blame of God/fate/devil is a refusal of creator-responsibility.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [consciousness-creates-form]
+  relates_to: [ego-bound, camouflage, multidimensional-personality]
+  quotes:
+    - "You create the world that you know."
+    - "The fact is that each of you create your own physical reality; and en masse, you create both the glories and the terrors that exist within your earthly experience."
+  status: stable
+  notes: Core message claim. Devil named as psyche projection — do not mint a separate Devil node unless later chapters develop it as a mechanism.
+
+- id: energy-personality-essence
+  label: Energy Personality Essence
+  type: Concept
+  summary: A personality no longer focused in physical matter; aware of truths obscured by corporeal identification.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [consciousness, multidimensional-personality]
+  relates_to: [seth-identity, psychological-bridge]
+  quotes:
+    - "I am an energy personality essence, no longer focused in physical matter."
+  status: stable
+  tags: [identity, nonphysical]
+
+- id: seth-identity
+  label: Seth (Identity Frame)
+  type: Concept
+  summary: Communicating personality who adopts selected past-personality traits for translation; primarily a teacher whose message is that you create the world you know.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [energy-personality-essence]
+  relates_to: [ruburt-identity, psychological-bridge, transparent-dimensional-warp]
+  quotes:
+    - "I am primarily a personality with a message: You create the world that you know."
+  status: partial
+  tags: [identity, pedagogy]
+  notes: Capture once as identity frame. Do not graph every self-description or joke (ghost writer, age medal).
+
+- id: ruburt-identity
+  label: Ruburt / Jane Roberts
+  type: Concept
+  summary: Entire identity spanning multiple lives; in this life called Jane. Speaks Seth's words; husband Robert Butts (Joseph) records.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: []
+  relates_to: [seth-identity, psychological-bridge, transparent-dimensional-warp]
+  quotes:
+    - "In this life Ruburt is called Jane, and her husband, Robert Butts, takes down the words that Jane speaks. I call him Joseph."
+  status: stable
+  tags: [identity, channel]
+  notes: One identity map node is enough; session staging (rocker, cat Willy, Mondays/Wednesdays) stays out of graph.
+
+- id: psychological-bridge
+  label: Psychological Bridge
+  type: Mechanism/Process
+  summary: Mutual psychological extension/projection between Seth and Ruburt that enables communication — not telephone-like speaking-through, but a maintained channel that must stay clear.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [seth-identity, ruburt-identity]
+  relates_to: [transparent-dimensional-warp, personality-gestalt]
+  quotes:
+    - "We have established what I refer to as a psychological bridge between us."
+    - "I do not speak through Ruburt as one might through a telephone. Instead there is a psychological extension, a projection of characteristics on both of our parts."
+  status: partial
+  notes: Mechanism announced; maintenance/creation details deferred by text ("Later I will explain"). Mark partial until later chapters fill steps.
+
+- id: transparent-dimensional-warp
+  label: Transparent Dimensional Warp
+  type: Mechanism/Process
+  summary: Within Ruburt's psyche, an open multidimensional window relatively free of physical-focus clouding, through which other realities can be perceived and Seth can enter.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [ruburt-identity, psychological-bridge]
+  relates_to: [physical-senses, camouflage]
+  quotes:
+    - "There is within his psyche what amounts to a transparent dimensional warp that serves almost like an open window through which other realities can be perceived."
+  status: partial
+  notes: Species-general claim implied (Jane has no unique species abilities). Keep as channel mechanism, not proof of Seth's ontology by itself.
+
+- id: inner-ego-vs-outer-ego
+  label: Inner Ego vs Outer Ego
+  type: Distinction
+  axis: [inner-ego, outer-ego]
+  table:
+    - [Directs inner activities; perceives beyond 3D via inner channels, Enables manipulation in the known physical world]
+    - [Holds past-existence memory; clairvoyant/telepathic warnings, Often treated as the whole of identity]
+    - [Source-strength of the physically oriented self, Meant as aid; can become jealous tyrant]
+    - [Continuity not dependent on this pole alone, Continuity wrongly assumed to depend on this pole]
+  source: Seth Speaks, Chapter 1
+
+- id: inner-ego
+  label: Inner Ego
+  type: Concept
+  summary: Seemingly unconscious director of inner activity; inner perceiver of reality beyond the three-dimensional; memory of past existences; source-strength of the physically oriented self.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [multidimensional-personality]
+  relates_to: [outer-ego, subconscious-meeting-place, physical-senses]
+  quotes:
+    - "I call this seemingly unconscious the \"inner ego,\" for it directs inner activities."
+  status: stable
+  tags: [self-structure, perception]
+
+- id: outer-ego
+  label: Outer Ego
+  type: Concept
+  summary: Physically oriented portion of personality that manipulates in camouflage reality; jealous of other dimensions but more resilient/curious than usually supposed; not the seat of continuity.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [camouflage]
+  relates_to: [inner-ego, ego-bound, subconscious-meeting-place]
+  quotes:
+    - "The ego is a jealous god, and it wants its interests served."
+    - "your sense of identity and continuity is not dependent upon the ego."
+  status: stable
+  tags: [self-structure]
+
+- id: subconscious-meeting-place
+  label: Subconscious as Meeting Place
+  type: Concept
+  summary: For convenience, the subconscious can be imagined as a meeting place between outer and inner egos — not a real division of the self.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [inner-ego, outer-ego]
+  relates_to: [multidimensional-personality]
+  quotes:
+    - "you can imagine it as a meeting place, so to speak, between the outer and inner egos."
+  status: asserted
+  tags: [self-structure, pedagogy]
+  notes: Explicitly pedagogical mapping to psychologists' term. Prefer linking over treating as a hard ontology node.
+
+- id: multidimensional-personality
+  label: Multidimensional Personality
+  type: Concept
+  summary: Deeper identity / psychic seed that forms both inner and outer ego; decides physical incarnation in place and time; overall entity of which the known self is one manifestation.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [consciousness]
+  relates_to: [entity, fragment-selves, inner-ego, outer-ego]
+  quotes:
+    - "This is the core of your identity, the psychic seed from which you sprang, the multidimensional personality of which you are part."
+  status: stable
+  tags: [identity]
+  notes: Explicitly rejects personality as a here-and-now-only attribute of consciousness.
+
+- id: entity
+  label: Entity
+  type: Concept
+  summary: Overall identity of which a present personality is one independent, eternally valid manifestation; basic characteristic includes perceiving/reacting to unlimited simultaneous events.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [multidimensional-personality]
+  relates_to: [fragment-selves, non-linear-experience]
+  quotes:
+    - "The entity is the overall identity of which his personality is one manifestation — an independent and eternally valid portion."
+  status: stable
+  tags: [identity]
+
+- id: fragment-selves
+  label: Fragment Selves
+  type: Concept
+  summary: The known self is one fragment of entire identity; fragments are not sequential beads but concurrent layers/segments growing outward from one source vitality into various realities.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [entity, multidimensional-personality]
+  relates_to: [consciousness-creates-form]
+  quotes:
+    - "The self that you know is but one fragment of your entire identity."
+    - "They are more like the various skins of an onion, or segments of an orange, all connected through the one vitality."
+  status: stable
+  tags: [identity]
+  notes: Onion/orange are metaphors — keep in quotes/notes, not as separate Concept nodes.
+
+- id: camouflage
+  label: Camouflage (Physical World)
+  type: Concept
+  summary: Physical form is a camouflage reality adopts; real as form, yet containing a greater vitality that gave it form. Outer ego relates to camouflage; sensing the reality within requires finer attention than physical senses provide.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [consciousness-creates-form]
+  relates_to: [physical-senses, outer-ego, no-dead-matter]
+  quotes:
+    - "physical form is one of the camouflages that reality adopts."
+  status: stable
+  tags: [perception, ontology]
+
+- id: physical-senses
+  label: Physical Senses
+  type: Concept
+  summary: Specialized organs of three-dimensional perception that enable and inhibit; they do not give a true complete picture of reality ("lovely liars").
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [camouflage]
+  relates_to: [consciousness, inner-ego, dreaming-knowing]
+  quotes:
+    - "You cannot trust your physical senses to give you a true picture of reality. They are lovely liars."
+    - "Consciousness is a way of perceiving the various dimensions of reality."
+  status: stable
+  tags: [perception]
+  notes: Ch.2 develops Inner Senses as the complementary node; keep this as the camouflage-attuned side.
+
+- id: no-dead-matter
+  label: No Dead Matter
+  type: Assertion
+  summary: Nothing exists that is not filled with consciousness of its own kind; atoms/molecules (including those in a nail or a book page) have awareness; there is no dead matter.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [consciousness-creates-form]
+  relates_to: [camouflage, consciousness]
+  quotes:
+    - "There is no object that was not formed by consciousness."
+    - "I am saying, of course, that there is no such thing as dead matter."
+  status: stable
+
+- id: ego-bound
+  label: Ego Bound
+  type: Concept
+  summary: Species condition analogous to "muscle bound" — spiritual rigidity in which intuitive portions of the self are denied or distorted.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [outer-ego]
+  relates_to: [you-create-your-physical-reality, camouflage]
+  quotes:
+    - "As a species you have grown \"ego bound\" instead, held in a spiritual rigidity."
+  status: stable
+  tags: [pedagogy, pathology]
+
+- id: dreaming-knowing
+  label: Dreaming Knowing
+  type: Assertion
+  summary: In dreaming one is sometimes wiser, more creative, and more knowledgeable than when awake.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [consciousness]
+  relates_to: [physical-senses, inner-ego]
+  quotes:
+    - "You are sometimes wiser, more creative, and far more knowledgeable when you are dreaming than when you are awake."
+  status: contested
+  notes: Thin in Ch.1 — claim planted for later development. Contested until dream chapters thicken the mechanism.
+
+- id: non-linear-experience
+  label: Non-Linear / Simultaneous Experience
+  type: Concept
+  summary: Whole-self capacity to perceive and react to unlimited simultaneous events; language and physical time sequences force linear leveling for communication.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [entity]
+  relates_to: [psychological-bridge, moment-point]
+  quotes:
+    - "I am aware of a different kind of experience, not linear, and can focus upon and react to an infinite variety of simultaneous events."
+    - "Language, as you know it, is partially and grammatically the end product of your physical time sequences."
+  status: partial
+  tags: [time, communication]
+  notes: Relates forward to Ch.2 moment-point; do not merge them — moment-point is the locus, this is the perceptual mode.
+
+- id: personality-gestalt
+  label: Personality as Gestalt of Perception
+  type: Concept
+  summary: Personality is a gestalt of ever-changing perception — the part of identity that perceives. In Seth-Ruburt communication, consciousness expands/projects rather than being blotted out.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: [multidimensional-personality]
+  relates_to: [psychological-bridge, entity]
+  quotes:
+    - "Personality is a gestalt of ever-changing perception. It is the part of the identity which perceives."
+  status: stable
+  tags: [identity]
+
+- id: consciousness
+  label: Consciousness
+  type: Concept
+  summary: A way of perceiving the various dimensions of reality; specialized in the physical case; present in degrees in all forms of matter.
+  source: Seth Speaks, Chapter 1
+  first_appearance: Seth Speaks, Chapter 1
+  dependencies: []
+  relates_to: [consciousness-creates-form, physical-senses, no-dead-matter]
+  quotes:
+    - "Consciousness is a way of perceiving the various dimensions of reality."
+  status: stable
+  tags: [ontology, perception]
+  notes: Root node many Ch.1 items depend on. Prefer this thin definition over dumping every consciousness adjective here.

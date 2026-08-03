@@ -1,0 +1,291 @@
+# Seth Speaks — Chapter 2 extraction
+# Distinctions-first. Environment / work / activities of Seth's plane.
+# Ch.1 ids reused via depends/relates; consciousness-creates-form not re-minted.
+
+# --- Distinctions (framework-soundness core) ---
+
+- id: form-vs-identity-stability
+  label: Form Permanency vs Identity Stability
+  type: Distinction
+  axis: [form-permanency, identity-stability]
+  table:
+    - [Objects/cities treated as independent lasting structures, Stability = integration of pleasure, purpose, accomplishment, identity]
+    - [Fear of changing form because identity seems form-dependent, Form may change freely once identity is known independent of form]
+    - [Permanency confused with fixed outer shape, Permanency basically has nothing to do with form]
+  source: Seth Speaks, Chapter 2
+
+- id: physical-senses-vs-inner-senses
+  label: Physical Senses vs Inner Senses
+  type: Distinction
+  axis: [physical-senses, inner-senses]
+  table:
+    - [Necessitate / force three-dimensional specialized perception, Inherent in all consciousness; operate independent of specialized form]
+    - [Confine to highly formalized camouflage reality, Perceive uncamouflaged situation; events/form free of jellylike time mold]
+    - [Translate experience into physical perceptions only, Open range of perception; freer interpretation; new forms/channels of knowing]
+    - [Used consciously as the default world-picture, Used constantly but usually below egotistical awareness]
+  source: Seth Speaks, Chapter 2
+
+- id: time-continuity-vs-associative-continuity
+  label: Time Continuity vs Associative Continuity
+  type: Distinction
+  axis: [time-sequence-continuity, associative-continuity]
+  table:
+    - [Personal continuity from self moving through clock time, Continuity primarily through associative processes]
+    - [Past/present objects separated by temporal sequence, Past and present objects perceivable at once via association]
+    - [Environment seems fixed independent thing, Environment = result of perceptive patterns set by psychological structure]
+  source: Seth Speaks, Chapter 2
+
+- id: conscious-vs-unconscious-cocreation
+  label: Conscious vs Unconscious Cocreation
+  type: Distinction
+  axis: [conscious-cocreation, unconscious-cocreation]
+  table:
+    - [Inner senses used freely; aware creators of environment, Create physical reality whether known or not]
+    - [Form follows each nuance of inner experience knowingly, Body/environment remade from inner conception largely unnoticed]
+    - [Identity not threatened by strong emotion of another, Emotions often concealed; feared as sweeping identity away]
+  source: Seth Speaks, Chapter 2
+
+- id: permanent-form-vs-joyfully-changing
+  label: Formalized Permanency vs Joyfully Changing
+  type: Distinction
+  axis: [formalized-permanency, joyfully-changing]
+  table:
+    - [Physical senses push toward fixed formalized reality, Change allowed full play; exquisite imbalances]
+    - [Relative permanency of matter treated as given, Matter constantly altering; relative permanency is a time-structure misleading]
+    - [Instruments seem to prove no change (already altered with the room), Psychological impact, event-attraction, hormonal/structure effects shift]
+  source: Seth Speaks, Chapter 2
+
+- id: post-death-plane-vs-seth-plane
+  label: Immediate After-Death vs Seth's Present Plane
+  type: Distinction
+  axis: [immediate-after-death, seth-present-plane]
+  table:
+    - [Environment entered soon after one death, Not the plane Seth now inhabits]
+    - [Still within more familiar transition assumptions, Requires many deaths before entry; more challenging creative work]
+    - [Often imagined as the next single destination, One of many nonphysical dimensions; not a single nonphysical country]
+  source: Seth Speaks, Chapter 2
+
+# --- Core thickenings from Ch.2 ---
+
+- id: moment-point
+  label: Moment Point
+  type: Concept
+  summary: Framework of psychological experience outside clock sequence; within it simultaneous actions follow freely through associative patterns — thoughts, possibilities, probabilities, and feelings brought to fruition and examined.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: [consciousness, non-linear-experience]
+  relates_to: [psychological-time, inner-senses, intensities-of-experience]
+  quotes:
+    - "our work, development, and experience all takes place within what I term the \"moment point.\""
+    - "Within it, simultaneous actions follow \"freely\" through associative patterns."
+  status: stable
+  tags: [time, simultaneity]
+  notes: Holding identity stable amid such stimuli requires development; many get lost until they awaken to themselves again.
+
+- id: inner-senses
+  label: Inner Senses
+  type: Concept
+  summary: Inherent perceptors of consciousness that operate independent of any specialized form (e.g. a physical body); used freely on Seth's plane to perceive uncamouflaged reality.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: [consciousness]
+  relates_to: [physical-senses, camouflage, moment-point, conscious-vs-unconscious-cocreation]
+  quotes:
+    - "Consciousness is equipped with inner perceptors, however. These are inherent within all consciousness, regardless of its development."
+    - "You would see an uncamouflaged situation, in which events and form were free and not stuck in a jellylike mold of time."
+  status: stable
+  tags: [perception]
+  notes: This chapter file develops them functionally; no numbered sense list in the source text used here. Link distinction physical-senses-vs-inner-senses.
+
+- id: psychological-time
+  label: Psychological Time
+  type: Concept
+  summary: Experience of time-equivalent as intensities with peaks and valleys — not restriction to clock sequences; walls of a room that constantly change color/size/depth as metaphor for its environment-like quality.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: [moment-point]
+  relates_to: [intensities-of-experience, non-linear-experience]
+  quotes:
+    - "We experience time, or what you would call its equivalent nature, in terms of intensities of experience — a psychological time with its own peaks and valleys."
+  status: stable
+  tags: [time]
+  notes: Clock sequences can still be experienced by choice; not obligatory.
+
+- id: intensities-of-experience
+  label: Intensities of Experience
+  type: Concept
+  summary: Travel/work medium replacing time sequence — development and communication move through intensities rather than minutes/hours/years.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: [moment-point]
+  relates_to: [psychological-time, thermal-electromagnetic-communication]
+  quotes:
+    - "We travel through various intensities."
+  status: stable
+  tags: [time, communication]
+
+# --- Mechanisms ---
+
+- id: form-follows-consciousness
+  label: Form Follows Consciousness
+  type: Mechanism/Process
+  summary: Consciousness always seeks to create form; form depends on consciousness. On advanced planes forms change with each nuance of inner experience; physically, the body is created each moment from inner conception of what you are, with chemical/EM shifts paced by thought.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: [consciousness-creates-form]
+  relates_to: [multiple-simultaneous-forms, you-create-your-physical-reality, camouflage]
+  quotes:
+    - "Consciousness always creates form, and not the other way around."
+    - "your physical body is created by you at each moment as a direct result of your inner conception of what you are"
+  status: partial
+  notes: Ch.2 reiterates Ch.1 assertion; this node is the process/ability layer (degree of proficiency varies). Evolutionary form-change cited as slowed-down version in physical system.
+
+- id: multiple-simultaneous-forms
+  label: Multiple Simultaneous Forms
+  type: Mechanism/Process
+  summary: Consciousness can create more than one form at a time — e.g. sleeping physical body, traveling dream form, and a thought form appearing elsewhere — often without egotistical awareness on the physical plane.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: [form-follows-consciousness]
+  relates_to: [dreaming-knowing, dream-environment-manipulation]
+  quotes:
+    - "Your physical form can lie sleeping and inert upon the bed while your consciousness travels in a dream form to places quite distant. Simultaneously you may create a \"thought form\" of yourself..."
+  status: partial
+  notes: Seth-plane versions done with complete awareness.
+
+- id: thermal-electromagnetic-communication
+  label: Thermal-Electromagnetic Communication
+  type: Mechanism/Process
+  summary: Non-word telepathic exchange via thermal and electromagnetic images that carry more meaning per sequence; intensity depends on emotional intensity behind it (phrase may mislead). Telepathy is the basis that makes physical language symbolism meaningful.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: [consciousness]
+  relates_to: [intensities-of-experience, personality-gestalt]
+  quotes:
+    - "We communicate instead through what I can only call thermal and electromagnetic images that are capable of supporting much more meaning in one \"sequence.\""
+    - "telepathy is the basis for your languages, without which their symbolism would be meaningless."
+  status: partial
+
+- id: dream-environment-manipulation
+  label: Dream Environment Manipulation
+  type: Mechanism/Process
+  summary: Learn to change physical environment by changing and manipulating dream environment; suggesting specific dreams of a desired change can, under certain conditions, appear in physical reality — often already done without realizing it.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: [dreaming-knowing, form-follows-consciousness]
+  relates_to: [inner-senses, multiple-simultaneous-forms]
+  quotes:
+    - "You can learn to change your physical environment, therefore, by learning to change and manipulate your dream environment."
+  status: partial
+  notes: Forward promise of recognition methods later; keep partial.
+
+# --- Assertions / concepts ---
+
+- id: creation-perception-intimacy
+  label: Creation and Perception Are Intimate
+  type: Assertion
+  summary: Physical senses create the reality they perceive; a tree is different (not merely appears different) to microbe, bird, insect, and human — each valid; none more basic solely because human-scaled.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: [physical-senses, consciousness-creates-form]
+  relates_to: [environment-as-perceptive-pattern, camouflage, physical-senses-vs-inner-senses]
+  quotes:
+    - "Creation and perception are far more intimately connected than any of your scientists realize."
+    - "It is not that physical reality is false. It is that the physical picture is simply one of an infinite number of ways of perceiving the various guises through which consciousness expresses itself."
+  status: stable
+
+- id: environment-as-perceptive-pattern
+  label: Environment as Perceptive Pattern
+  type: Concept
+  summary: Environment is not a separate thing-in-itself but the result of perceptive patterns determined by psychological structure; Seth's environment is as vivid as physical existence and is a manifestation of their development.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: [consciousness]
+  relates_to: [creation-perception-intimacy, time-continuity-vs-associative-continuity, camouflage]
+  quotes:
+    - "environment is not a separate thing in itself, but the result of perceptive patterns, and these are determined by psychological structure."
+    - "no objective reality exists but that which is created by consciousness."
+  status: stable
+  tags: [ontology, perception]
+
+- id: emotions-as-greater-events
+  label: Emotions as 3D Materializations of Greater Events
+  type: Concept
+  summary: Familiar love/hate/anger are three-dimensional materializations of far greater psychological events related to the inner senses; advanced identities travel through emotions into other creativity without identity threat.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: [inner-senses]
+  relates_to: [conscious-vs-unconscious-cocreation, personality-gestalt]
+  quotes:
+    - "Your feelings can best be described as the three-dimensional materializations of far greater psychological events and experiences that are related to the \"inner senses.\""
+  status: partial
+  tags: [emotion, perception]
+  notes: Thin plant for later emotional/creative chapters.
+
+- id: seth-personality-portion
+  label: Seth Personality Portion
+  type: Concept
+  summary: The communicating Seth of this book is one portion adopted from many personalities available to a larger Seth identity — chosen for this system; other systems would not understand this male/lived-physical framing.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: [seth-identity]
+  relates_to: [entity, multidimensional-personality, psychological-bridge]
+  quotes:
+    - "I use one portion of myself from many personalities that are available to my identity in these communications, and in this book."
+  status: stable
+  tags: [identity]
+  notes: Thickens Ch.1 seth-identity; do not fork a second full identity stack.
+
+- id: nonphysical-only-personalities
+  label: Nonphysical-Only Personalities
+  type: Concept
+  summary: Some personalities never were physical; evolved along different lines with alien psychological structures; consciousness need not always be within a form, and not all forms are physical.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: [consciousness, entity]
+  relates_to: [form-follows-consciousness, camouflage]
+  quotes:
+    - "Some personalities, therefore, have never been physical. They have evolved along different lines, and their psychological structures would be alien to your own."
+  status: asserted
+  tags: [identity]
+
+- id: physical-trance-of-focus
+  label: Physical Trance of Focus
+  type: Concept
+  summary: Ordinary physical attention is a deep specialized trance on one bright point called reality; other realities surround but are ignored — purpose of the teaching is to open inner eyes gradually.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: [outer-ego, physical-senses]
+  relates_to: [camouflage, ego-bound, inner-senses]
+  quotes:
+    - "you are in as deep a trance now as the woman is through whom I write this book."
+    - "All of your attention is focused in a highly specialized way upon one shining, bright point that you call reality."
+  status: stable
+  tags: [perception, pedagogy]
+
+- id: birth-shock-vs-death
+  label: Birth Shock vs Death
+  type: Assertion
+  summary: Birth almost always implies sharp sudden recognition and is more of a shock than death; death may go unrealized; fear of death is misplaced relative to birth.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: []
+  relates_to: [post-death-plane-vs-seth-plane, form-vs-identity-stability]
+  quotes:
+    - "Birth is much more of a shock than death. Sometimes when you die you do not realize it, but birth almost always implies a sharp and sudden recognition."
+  status: contested
+  notes: Pastoral/comfort framing around a comparative claim — keep contested until later death chapters thicken.
+
+- id: associative-perception
+  label: Associative Perception
+  type: Concept
+  summary: Mode in which objects across past and present are justified together by associative connection rather than time order — would remake the entire feel of physical reality if it were the primary continuity mechanism.
+  source: Seth Speaks, Chapter 2
+  first_appearance: Seth Speaks, Chapter 2
+  dependencies: [time-continuity-vs-associative-continuity]
+  relates_to: [moment-point, environment-as-perceptive-pattern, inner-senses]
+  quotes:
+    - "If you gained your sense of personal continuity through associative processes primarily, rather than as a result of the familiarity of self moving through time, then you would experience physical reality in an entirely different fashion."
+  status: stable
+  tags: [perception, time]
+  notes: Father's eight chairs = illustration only; not a node.

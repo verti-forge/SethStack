@@ -1,0 +1,5 @@
+# Seed stubs retired into chapter YAML:
+# - Ch.2: inner-senses, moment-point → data/seth-speaks/chapter-02.yaml
+# - Ch.3: thought-to-matter-transformation → data/seth-speaks/chapter-03.yaml
+#
+# This file intentionally has no nodes (comments only) so loaders skip it.
