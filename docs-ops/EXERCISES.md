@@ -15,3 +15,9 @@ Source: SS Ch.4 (inner-senses stage exercise passage)
 Setup: Sit quietly, close your eyes, imagine the room-stage gone dark, and receptively listen and look with the inner senses for a few moments before sleep or at rest.
 Predicted class of experience: Snatches of inner sights or sounds and a new focus in another dimension of awareness.
 Chair-friendly: yes
+
+### EX-03 — Soul power-source radiation
+Source: SS Ch.6 (after soul misconceptions; before ESP/perception review)
+Setup: Close eyes; sense the source of power from which breathing and life forces come; then sense that power flowing outward through the body (fingertips, toes, pores) and undiminished through earth and sky to the farthest reaches of the universe, with yourself as center.
+Predicted class of experience: Subjective sense of vitality/source and outward creative reach; clearer felt connection to soul as open creative system (may begin as imagination).
+Chair-friendly: yes

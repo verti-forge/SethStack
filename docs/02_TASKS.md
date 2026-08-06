@@ -133,3 +133,22 @@ Ordered, acceptance-first. Work one task at a time.
 **Verification:** Diff ids against Ch.1–4; read findings against rubric; pressure-test physical-reality stack guide if Ch.5 touches it.
 
 **Safety / rollback:** Remove `chapter-05.yaml` and Ch.5 findings/digest; revert soundness/progress edits.
+
+---
+
+## T008 — Ch.6 extraction + findings
+
+**Description:** Extract Seth Speaks Chapter 6 into `data/seth-speaks/chapter-06.yaml` (Distinctions-first; protect consciousness-as-attribute / actor-multidimensional-identity stacks; track aware-guides and env-change plants), then complete T005 for Ch.6.
+
+**Files likely touched:** `data/chapters/SethSpeaks/CHAPTER 6.txt`, `data/seth-speaks/chapter-06.yaml`, `docs-ops/chapter-reviews/SS-ch06-findings.md`, `SS-ch06-digest.md`, `docs-ops/FRAMEWORK_SOUNDNESS.md`, possibly `docs-ops/stack-guides/`, `docs-ops/EXERCISES.md`
+
+**Acceptance:**
+- [x] Ch.6 YAML ids unique across `data/**/*.yaml`
+- [x] Mechanism chains record known vs deferred steps
+- [x] T005 acceptance met for Ch.6 (findings + digest + soundness + progress)
+
+**Status note:** Done 2026-08-06. Validate 108 items; dangling refs none. EX-03 captured; testable-claims empty; no Pass E; creation/EM + senses/root-assumptions candidacy noted in Progress only.
+
+**Verification:** Diff ids against Ch.1–5; read findings against rubric; dangling-ref glance under live linker; pressure-test physical-reality stack guide if Ch.6 touches it; note stack-guide candidacy in Progress only (do not write guides).
+
+**Safety / rollback:** Remove `chapter-06.yaml` and Ch.6 findings/digest; revert soundness/progress/EXERCISES edits.

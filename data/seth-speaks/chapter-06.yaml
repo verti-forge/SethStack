@@ -1,0 +1,177 @@
+# Seth Speaks — Chapter 6 extraction
+# The soul and the nature of its perception.
+# Distinctions-first. Reuse entity / ego / creation spine; do not remint you-create or consciousness-as-attribute.
+
+# --- Distinctions ---
+
+- id: soul-possession-vs-soul-identity
+  label: Soul as Possession vs Soul as Identity
+  type: Distinction
+  axis: [soul-as-possession, soul-as-what-you-are]
+  table:
+    - [Soul as something you have or own, Soul or entity is what you are]
+    - [Cherished heirloom or gift to return to God, Alive responsive identity forever becoming]
+    - [Immortalized ego projected forever unchanged, Present personality is one free manifestation of a larger creative soul]
+  source: Seth Speaks, Chapter 6
+
+- id: static-soul-vs-becoming-soul
+  label: Static Soul Citadel vs Becoming Open Soul
+  type: Distinction
+  axis: [static-closed-soul, becoming-open-soul]
+  table:
+    - [Finished static thing / spiritual citadel, Forever changing flux of subjective learning]
+    - [Closed system that keeps invaders out, Open creative powerhouse shooting in all directions]
+    - [Fulfillment as arrival at a destination, Fulfillment without arrivals in other dimensions]
+  source: Seth Speaks, Chapter 6
+
+- id: personality-absorbed-vs-personality-continues
+  label: Personality Absorbed vs Personality Continues
+  type: Distinction
+  axis: [personality-gobbled-by-soul, personality-continues-as-manifestation]
+  table:
+    - [Soul erases or subjugates the known personality, Personality continues and is never destroyed or lost]
+    - [Only the present self is the whole identity, Present self is one aspect among many free manifestations]
+    - [Other lives inaccessible until death, Inner communication and knowledge available now]
+  source: Seth Speaks, Chapter 6
+
+- id: packaged-physical-perception-vs-soul-direct-perception
+  label: Packaged Physical Perception vs Soul Direct Perception
+  type: Distinction
+  axis: [sense-packaged-experience, soul-direct-perception]
+  table:
+    - [Physical wrapping taken for the experience itself, Soul perceives mental/psychic acts beneath physical events]
+    - [All perception basically physical, Perception not basically physical; ESP is crude improvement]
+    - [Soul waits until death to perceive differently, Soul-stuff methods of perception operate now as before birth and after death]
+  source: Seth Speaks, Chapter 6
+
+# --- Mechanisms ---
+
+- id: depth-sleep-pure-perception
+  label: Depth Sleep Pure Perception
+  type: Mechanism/Process
+  summary: At certain depths of sleep the soul's perception operates relatively unhampered; energy is generated that makes the dream state possible. Recalled dreams are often later parables formed from that depth experience, not exact translations. Scientists have not pinpointed this level.
+  source: Seth Speaks, Chapter 6
+  first_appearance: Seth Speaks, Chapter 6
+  dependencies: [packaged-physical-perception-vs-soul-direct-perception, physical-senses-vs-inner-senses]
+  relates_to: [dream-environment-manipulation, sleep-refresh-beyond-play, camouflage]
+  quotes:
+    - "At certain depths of sleep, however, the soul's perception operates relatively unhampered."
+    - "Dreams, however, may later the same evening be formed from the information gained during what I will call the \"depth experience.\""
+  status: partial
+  notes: Detection/conditions deferred; not a lab-falsified claim for the testable-claims register. Links dream digestion to return of experience to direct components.
+
+# --- Assertions ---
+
+- id: soul-is-what-you-are
+  label: Soul Is What You Are
+  type: Assertion
+  summary: A soul is not something you have; it is what you are. Seth prefers entity over soul to avoid religious misconceptions. The soul/entity is the most highly motivated, energized, potent consciousness-unit known; you are one manifestation of your own soul.
+  source: Seth Speaks, Chapter 6
+  first_appearance: Seth Speaks, Chapter 6
+  dependencies: [soul-possession-vs-soul-identity, entity, consciousness-as-self-vs-attribute]
+  relates_to: [actor-role-vs-multidimensional-identity, multidimensional-personality, fragment-selves]
+  quotes:
+    - "First of all, a soul is not something that you have. It is what you are."
+    - "The soul or entity is itself the most highly motivated, most highly energized, and most potent consciousness-unit known in any universe."
+  status: stable
+  notes: Thickens entity + consciousness-as-attribute; do not remint those ids.
+
+- id: personality-continues-within-soul
+  label: Personality Continues Within Soul
+  type: Assertion
+  summary: The present personality is never destroyed, lost, gobbled, erased, or subjugated by the soul; it continues as one free creative manifestation among others that compose the soul, which is more than the sum of its parts.
+  source: Seth Speaks, Chapter 6
+  first_appearance: Seth Speaks, Chapter 6
+  dependencies: [personality-absorbed-vs-personality-continues, entity, fragment-selves]
+  relates_to: [actor-role-vs-multidimensional-identity, reincarnational-drama, multidimensional-personality]
+  quotes:
+    - "Your own personality as you know it... will also never be destroyed or lost. It is a portion of the soul."
+    - "It will not be gobbled by the soul, nor erased by it, nor subjugated by it; nor on the other hand can it ever be separated."
+  status: stable
+
+- id: soul-not-closed-system
+  label: Soul Not a Closed System
+  type: Assertion
+  summary: There are no closed systems in reality; the soul is an open spiritual system and creative powerhouse. Present personality is never lost even while the soul expands through reincarnations and probable realities.
+  source: Seth Speaks, Chapter 6
+  first_appearance: Seth Speaks, Chapter 6
+  dependencies: [static-soul-vs-becoming-soul, soul-is-what-you-are]
+  relates_to: [personality-continues-within-soul, probable-realities]
+  quotes:
+    - "Now, there are no closed systems in reality."
+    - "the soul, for example, is an open spiritual system, a powerhouse of creativity that shoots out in all directions - and yet this is indeed the case."
+  status: stable
+
+- id: universe-as-idea-construction
+  label: Universe as Idea Construction
+  type: Assertion
+  summary: Materializing thoughts and emotions into physical realities is an attribute of the soul; the soul constructs daily physical reality from the nature of thoughts and expectations. Knowing the universe is idea construction gives clues to change environment beneficially (practical methods later).
+  source: Seth Speaks, Chapter 6
+  first_appearance: Seth Speaks, Chapter 6
+  dependencies: [you-create-your-physical-reality, mind-creates-matter, soul-is-what-you-are]
+  relates_to: [creation-perception-intimacy, thought-to-matter-transformation, materialization-by-intensity-not-valence]
+  quotes:
+    - "This characteristic of materializing thoughts and emotions into physical realities is an attribute of the soul."
+    - "This knowledge - that your universe is idea construction - can immediately give you clues that enable you to change your environment and circumstances beneficially."
+  status: stable
+  notes: "Thickens creation spine via relates — do not remint you-create-your-physical-reality. Soft arrival of Ch.4 env-change plant (clues now; methods later)."
+
+# --- Concepts ---
+
+- id: inner-self-messenger
+  label: Inner Self as Messenger
+  type: Concept
+  summary: The inner self is the portion of the soul within you that knows its relationship with the soul and acts as messenger between the soul and the present personality. Terms like soul, entity, inner self, and present personality are conveniences — one is part of the other without hard cut-points.
+  source: Seth Speaks, Chapter 6
+  first_appearance: Seth Speaks, Chapter 6
+  dependencies: [entity, soul-is-what-you-are, inner-ego]
+  relates_to: [outer-ego, psychological-bridge, packaged-physical-perception-vs-soul-direct-perception]
+  quotes:
+    - "the inner self being the portion of the soul that is within you. The inner self knows its relationship with the soul. It is a portion of the self that acts, you might say, as a messenger between the soul and the present personality."
+  status: stable
+  tags: [identity]
+  notes: Relates to Ch.1 inner-ego without collapsing ids; messenger framing is the Ch.6 thicken.
+
+- id: probable-realities
+  label: Probable Realities
+  type: Concept
+  summary: Soul or entity expands through reincarnations and through existence and experience in probable realities — detail deferred ("something that I will explain later").
+  source: Seth Speaks, Chapter 6
+  first_appearance: Seth Speaks, Chapter 6
+  dependencies: [entity, soul-not-closed-system]
+  relates_to: [reincarnational-drama, soul-as-ee-gestalt]
+  quotes:
+    - "The soul or entity is not diminished but expanded through reincarnations, through existence and experience in probable realities - something that I will explain later."
+  status: partial
+  tags: [forward-plant]
+  notes: Plant only; do not invent mechanism detail.
+
+- id: soul-as-ee-gestalt
+  label: Soul as Electromagnetic Gestalt
+  type: Concept
+  summary: "The soul can be considered an electromagnetic energy field of concentrated action — a powerhouse of probabilities seeking expression; a gestalt of many individual consciousnesses that retains I am-ness even while aware it may be part of another I am-ness. Mutual create: you continually create your soul as it continually creates you."
+  source: Seth Speaks, Chapter 6
+  first_appearance: Seth Speaks, Chapter 6
+  dependencies: [electromagnetic-units-of-thought, soul-is-what-you-are, soul-not-closed-system]
+  relates_to: [entity, personality-continues-within-soul, form-vs-identity-stability]
+  quotes:
+    - "The soul can be considered as an electromagnetic energy field, of which you are part."
+    - "In a manner of speaking, you continually create your soul as it continually creates you."
+  status: stable
+  tags: [identity, ontology]
+  notes: Prefer relating to existing EM units over reminting EE vocabulary.
+
+- id: soul-perception-power-exercise
+  label: Soul Perception Power Exercise
+  type: Concept
+  summary: After reading to this point, close eyes and sense the source of power from which breathing and life forces come; then sense that power flowing outward through the body in all directions to the farthest reaches of the universe. Begins with imagination but is based on fact — emanations of consciousness and soul creativity do reach outward that way.
+  source: Seth Speaks, Chapter 6
+  first_appearance: Seth Speaks, Chapter 6
+  dependencies: [soul-is-what-you-are, soul-not-closed-system]
+  relates_to: [packaged-physical-perception-vs-soul-direct-perception]
+  quotes:
+    - "Close your eyes after having read this chapter to this point, and try to sense within yourself the source of power from which your own breathing and life forces come."
+    - "Now I do not mean this to be merely a symbolic exercise, for though it may begin with imagination, it is based upon fact"
+  status: stable
+  tags: [exercise, pedagogy]
+  notes: Catalogued as EX-03 in docs-ops/EXERCISES.md.

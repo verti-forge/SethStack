@@ -35,9 +35,9 @@ Deferred polish leftovers (worked Test 3 example, graph anchors) remain in [`../
 
 | Candidate | Why |
 |-----------|-----|
-| Creation / EM family | `consciousness-creates-form` → you-create → transformers → `mind-creates-matter` + thought-form/EM one-stack |
+| Creation / EM family | ≥3 protected passes (Ch.1 create → Ch.3 EM/transformers → Ch.5 coordinates/intensity + Ch.6 idea-construction). **Candidacy live — guide not written yet.** |
 | Form vs identity stability | Load-bearing Distinction; body/environment Mechanisms hang on it |
-| Senses / root assumptions / reality systems | `physical-senses-vs-inner-senses` + `root-assumptions` + Ch.4 `play-root-assumptions` + space — **earned stronger after Ch.4** |
-| Consciousness-as-attribute | Hierarchy pressure on ego poles; identity architecture |
+| Senses / root assumptions / reality systems | ≥3 by Ch.4; Ch.6 packaged-vs-direct strengthens. **Candidacy live — guide not written yet.** |
+| Consciousness-as-attribute | Hierarchy pressure on ego poles; Ch.6 soul architecture thickens |
 
 Promote the next when Soundness or chapter density earns it — creation/EM is the likely second pilot after more SS surface or at NPR onset.

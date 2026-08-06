@@ -2,7 +2,7 @@
 
 **Stack id:** `SG-physical-reality-status`  
 **Kind:** Angle stack (with supporting Distinctions)  
-**Through:** Seth Speaks Ch.1–5  
+**Through:** Seth Speaks Ch.1–6  
 **Job:** A reading and pressure-test instrument for every later sentence that says “camouflage,” “illusion,” “physical,” or “not real.”
 
 This is not a belief pitch and not a manifestation manual. It is a tool for keeping one of the framework’s most abuse-prone territories from collapsing into either naive materialism (“only the solid counts”) or cheap discard (“it’s all fake, so nothing matters”).
@@ -31,6 +31,8 @@ Use it while extracting. Use it while writing findings. Use it when two digests 
 | D | Ch.4 | Senses-as-lenses; living webs; play-serious | Senses form what they seem to perceive (part of camouflage); camouflage = vital webs; seeing props ≠ discard the play |
 
 Ch.5: coexisting camouflage systems + operational matter via coordinate intensity — **reinforcement only** (Test 6); no Pass E. Creation/EM sibling absorbed the real thickening (`coordinate-point-activation`, intensity-not-valence).
+
+Ch.6: senses force specialized pattern; world as valid materialization; idea construction — **reinforcement only** of Pass B/D (Test 6); no Pass E. Identity/perception absorbed the real thickening.
 
 Append future rows here when a pass earns the revision trigger below. Do not rewrite Pass A–D prose for mere reinforcement.
 
@@ -172,7 +174,8 @@ Do not expand those chains here. They belong to the **creation / EM** stack guid
 | Ch.3 findings / digest | `docs-ops/chapter-reviews/SS-ch03-findings.md`, `SS-ch03-digest.md` |
 | Ch.4 findings / digest | `docs-ops/chapter-reviews/SS-ch04-findings.md`, `SS-ch04-digest.md` |
 | Ch.5 findings / digest | `docs-ops/chapter-reviews/SS-ch05-findings.md`, `SS-ch05-digest.md` |
-| Graph sources | `data/seth-speaks/chapter-0{1,2,3,4,5}.yaml` |
+| Ch.6 findings / digest | `docs-ops/chapter-reviews/SS-ch06-findings.md`, `SS-ch06-digest.md` |
+| Graph sources | `data/seth-speaks/chapter-0{1,2,3,4,5,6}.yaml` |
 | Stack index | `docs-ops/stack-guides/README.md` |
 
 ---
