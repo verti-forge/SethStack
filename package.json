@@ -4,11 +4,12 @@
   "type": "module",
   "scripts": {
     "build": "tsc -p .",
-    "dev": "tsx src/index.ts",
+    "dev": "tsx src/index.ts all",
     "validate": "tsx src/index.ts validate",
     "graph": "tsx src/index.ts graph",
     "report": "tsx src/index.ts report",
-    "all": "npm run validate && npm run graph && npm run report"
+    "all": "tsx src/index.ts all",
+    "test": "tsx --test tests"
   },
   "dependencies": {
     "better-sqlite3": "^13.0.3",

@@ -28,13 +28,16 @@ Ordered, acceptance-first. Work one task at a time.
 **Files likely touched:** `src/index.ts`, `src/pipeline.ts`
 
 **Acceptance:**
-- [ ] `validate`, `graph`, `report`, and `all`/`dev` produce distinct, documented behavior (or clearly shared stages with correct early exit)
-- [ ] Unknown args fail with a short usage message instead of silently running full pipeline
-- [ ] `npm run validate` / `graph` / `report` / `all` still succeed on current seed data
+- [x] `validate`, `graph`, `report`, and `all`/`dev` produce distinct, documented behavior (or clearly shared stages with correct early exit)
+- [x] Unknown args fail with a short usage message instead of silently running full pipeline
+- [x] `npm run validate` / `graph` / `report` / `all` still succeed on current seed data
+- [x] Update README usage note so it no longer claims modes still run the full pipeline
 
 **Verification:** Run each npm script; confirm outputs/exits match the intended mode.
 
 **Safety / rollback:** Revert `index.ts` / `pipeline.ts`; default remains full `runAll()`.
+
+**Status:** Done 2026-08-05 (P1).
 
 ---
 
@@ -89,7 +92,7 @@ Ordered, acceptance-first. Work one task at a time.
 
 **Safety / rollback:** Delete or revert the findings/digest/soundness edits; graph YAML untouched.
 
-**Status note:** Ch.1–3 findings + digests written (2026-08-03). Recur for Ch.4+.
+**Status note:** Ch.1–4 findings + digests written (2026-08-03). Recur for Ch.5+.
 
 ---
 
@@ -107,3 +110,20 @@ Ordered, acceptance-first. Work one task at a time.
 **Verification:** Diff ids against Ch.1–2; read findings against rubric.
 
 **Safety / rollback:** Remove `chapter-03.yaml` and Ch.3 findings; restore seed stub if removed.
+
+---
+
+## T007 — Ch.5 extraction + findings
+
+**Description:** Extract Seth Speaks Chapter 5 into `data/seth-speaks/chapter-05.yaml` (Distinctions-first; protect camouflage / simultaneous-reincarnation stacks; track env-change and other forward plants), then complete T005 for Ch.5.
+
+**Files likely touched:** `data/chapters/SethSpeaks/CHAPTER 5.txt`, `data/seth-speaks/chapter-05.yaml`, `docs-ops/chapter-reviews/SS-ch05-findings.md`, `SS-ch05-digest.md`, `docs-ops/FRAMEWORK_SOUNDNESS.md`, possibly `docs-ops/stack-guides/`
+
+**Acceptance:**
+- [ ] Ch.5 YAML ids unique across `data/**/*.yaml`
+- [ ] Mechanism chains record known vs deferred steps
+- [ ] T005 acceptance met for Ch.5 (findings + digest + soundness + progress)
+
+**Verification:** Diff ids against Ch.1–4; read findings against rubric; pressure-test physical-reality stack guide if Ch.5 touches it.
+
+**Safety / rollback:** Remove `chapter-05.yaml` and Ch.5 findings/digest; revert soundness/progress edits.
