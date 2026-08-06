@@ -75,7 +75,7 @@ When an Angle stack earns >=3 protected passes (or is listed on Soundness), prom
 
 ## Adjacent frameworks
 
-We sometimes note structural echoes - process philosophy, idealist appearance, careful Buddhist-adjacent emptiness-of-inherent-form, observer/system dependence, James-style empiricism. Echo means rhyme. It never means Seth = X. If a parallel starts doing identity work, cut it.
+We sometimes note structural echoes - process philosophy, idealist appearance, careful Buddhist-adjacent emptiness-of-inherent-form, observer/system dependence, James-style empiricism. Echo means rhyme. It never means Seth = X. If a parallel starts doing identity work, cut it.`r`n`r`nCross-chapter rhyme data consolidates in `docs-ops/ECHO_INDEX.md`; consult it deliberately, and never load it into extraction context.
 
 ## YAML, digests, and handoff
 
@@ -103,3 +103,4 @@ Open YAML freely to curate. Reach for a digest or stack guide when you need orie
 ## Later (not this pass)
 
 A first-class YAML type for Angle passes may earn its keep when *Nature of Personal Reality* volume forces it. Public blog export and auto-generated digests can wait. For now: teach the idea, track it in review, narrate it in digests.
+
