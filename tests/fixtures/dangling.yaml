@@ -1,0 +1,8 @@
+- id: dangling-source
+  label: Dangling Source
+  type: Concept
+  summary: Points at a target that does not exist.
+  source: tests
+  first_appearance: tests
+  dependencies: [nonexistent-target-id]
+  relates_to: [also-missing-target]

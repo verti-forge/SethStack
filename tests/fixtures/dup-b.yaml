@@ -1,0 +1,6 @@
+- id: shared-dup-id
+  label: Dup From File B
+  type: Concept
+  summary: Second copy of a cross-file duplicate id.
+  source: tests/fixtures/dup-b.yaml
+  first_appearance: tests

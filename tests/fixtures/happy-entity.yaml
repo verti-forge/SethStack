@@ -1,0 +1,11 @@
+- id: test-happy-concept
+  label: Happy Concept
+  type: Concept
+  summary: A valid entity for the happy-path parse test.
+  source: tests
+  first_appearance: tests
+  dependencies: []
+  relates_to: []
+  quotes: []
+  status: stable
+  tags: []

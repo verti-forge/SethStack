@@ -9,7 +9,7 @@
     "graph": "tsx src/index.ts graph",
     "report": "tsx src/index.ts report",
     "all": "tsx src/index.ts all",
-    "test": "tsx --test tests"
+    "test": "node --import tsx --test \"./tests/**/*.test.ts\""
   },
   "dependencies": {
     "better-sqlite3": "^13.0.3",

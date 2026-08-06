@@ -48,13 +48,15 @@ Ordered, acceptance-first. Work one task at a time.
 **Files likely touched:** `src/linkers.ts`, `src/validators.ts` or `src/pipeline.ts`, possibly `dist/report.md` generation
 
 **Acceptance:**
-- [ ] Missing dependency or relates_to targets are listed (id + missing ref)
-- [ ] Valid edges still built when targets exist
-- [ ] Report or console surfaces at least a count of broken refs
+- [x] Missing dependency or relates_to targets are listed (id + missing ref)
+- [x] Valid edges still built when targets exist
+- [x] Report or console surfaces at least a count of broken refs
 
 **Verification:** Add a temporary YAML item with a fake ref, run pipeline, confirm the missing ref appears; remove the item after.
 
 **Safety / rollback:** Revert linker/validator/report changes; graph edge behavior can stay as today.
+
+**Status:** Done 2026-08-05 (P2). Default = error; `--allow-dangling` warns and continues.
 
 ---
 
@@ -65,13 +67,15 @@ Ordered, acceptance-first. Work one task at a time.
 **Files likely touched:** `tests/` (new), possibly `package.json` (test script — ask before adding deps)
 
 **Acceptance:**
-- [ ] At least one passing test for a valid Entity parse path
-- [ ] At least one passing test that duplicate ids produce an error and omit those items
-- [ ] Test command documented (reuse existing runner if possible; ask before new deps)
+- [x] At least one passing test for a valid Entity parse path
+- [x] At least one passing test that duplicate ids produce an error and omit those items
+- [x] Test command documented (reuse existing runner if possible; ask before new deps)
 
 **Verification:** Run the chosen test command; all new tests pass.
 
 **Safety / rollback:** Remove `tests/` and any test script; pipeline unchanged.
+
+**Status:** Done 2026-08-05 (P2). `npm test` via `node:test` + tsx (no new deps).
 
 ---
 

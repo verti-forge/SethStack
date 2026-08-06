@@ -10,7 +10,7 @@ Commands:
   dev       Alias for all
 
 Options:
-  --allow-dangling  Warn on missing dependency/relates_to targets instead of failing (P2)
+  --allow-dangling  Warn on missing dependency/relates_to targets instead of failing
 `;
 
 function parseArgs(argv: string[]): { cmd: string; opts: PipelineOptions } {
