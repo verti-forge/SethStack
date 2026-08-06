@@ -77,3 +77,28 @@ NEXT 3: Ch.7 when ready; stack-guide candidacy (creation/EM or senses/root-assum
 
 Chair-friendly closeout: **EX-03** — close eyes, sense the power-source behind breath/life force, then feel it radiate outward through body and cosmos (catalog: `docs-ops/EXERCISES.md`).
 
+### 2026-08-06 (session closeout)
+STATE: Six chapters of Seth Speaks curated. **108 items** validating clean; **zero dangling refs** across the whole graph. Pipeline unblocked/staged/tested/enforcing (P0–P3). Review layer gained testable-claims register, EXERCISES catalog + chair-friendly ritual, PRACTICE_VAULT (contract wall), ECHO_INDEX, ADR-001. Curation T007–T008 closed coherently. Session checked its own work twice and passed both: first live validator run + first cross-chapter linker audit — no placeholder nodes, no broken edges, no flying-blind debt. Ch.2 cold extraction over-extracted vs canonical (outside evidence leak filter + Distinctions-first are tighter than agent default).
+
+What shipped:
+- Pipeline P0–P3 — better-sqlite3 9→13 on Node 24; validate decoupled from SQLite; real CLI dispatch; dangling refs fail by default (`--allow-dangling`); node:test green on Windows; docs synced.
+- Review U1–U5 — testable-claims (falsifier at capture); EXERCISES.md; PRACTICE_VAULT wall; ECHO_INDEX (Ch.1–4); ADR-001 AnglePass Option C.
+- Curation T007–T008 — Ch.5 creation/EM (coordinates, intensity-not-valence); Ch.6 identity architecture (soul-as-identity, becoming, personality continues, packaged vs direct). Post-pass: exercise procedure stays EX-03 only; ontology is Assertion `consciousness-emanations-reach-outward` (no exercise-shaped Concept nodes going forward).
+
+What the session decided:
+- Echo data stays out of extraction context (U4b control vs treatment; bleed detected; keep rule).
+- AnglePass stays prose-only (ADR-001 Option C; concrete revisit trigger).
+- Intensity-not-valence stays separate from `you-create-your-physical-reality`.
+- Exercises live in EXERCISES.md only; graph gets ontology claims underneath when present.
+
+OPEN LOOPS: Ch.7+ curation paused deliberately; **creation/EM stack guide** (four protected passes — strongest promotion case); senses/root-assumptions guide candidacy; aware-guides vs Seth (no evidence through Ch.6); play-root-assumptions vs root-assumptions; forward plants (observers, env-change methods, hatred→love, god concept, probable realities); ADR-001 if revisit fires; MAYBE #2–3 still deferred.
+
+Watch for next session:
+- Testable-claims empty three chapters running = book shape (ontological framing), not broken register; expect earn-out in NPR; if still empty by Ch.10, write a sentence.
+- New-node rate (~13–19/chapter) is the health metric; spike = reuse slipping; drop toward zero = pressure-test phase.
+- Echo index on probation — earns keep when an echo generates a pressure test you wouldn't have run; if not by NPR, museum wing.
+
+NEXT 3: **Default — write creation/EM stack guide** (synthesis over ingestion; NPR will restate this spine hardest). Else Ch.7 if chair wants ingestion. Re-enter: Field Guide → SS-ch06-digest → Soundness overall → SG-physical-reality-status if pressure-testing.
+
+Chair-friendly: **EX-03** — close eyes, sense the source of power behind breathing, then sense it radiating outward in all directions; begins in imagination but is not merely symbolic.
+
