@@ -124,9 +124,11 @@ Ordered, acceptance-first. Work one task at a time.
 **Files likely touched:** `data/chapters/SethSpeaks/CHAPTER 5.txt`, `data/seth-speaks/chapter-05.yaml`, `docs-ops/chapter-reviews/SS-ch05-findings.md`, `SS-ch05-digest.md`, `docs-ops/FRAMEWORK_SOUNDNESS.md`, possibly `docs-ops/stack-guides/`
 
 **Acceptance:**
-- [ ] Ch.5 YAML ids unique across `data/**/*.yaml`
-- [ ] Mechanism chains record known vs deferred steps
-- [ ] T005 acceptance met for Ch.5 (findings + digest + soundness + progress)
+- [x] Ch.5 YAML ids unique across `data/**/*.yaml`
+- [x] Mechanism chains record known vs deferred steps
+- [x] T005 acceptance met for Ch.5 (findings + digest + soundness + progress)
+
+**Status note:** Done 2026-08-06. Validate 95 items. `coordinate-point-activation` left partial; no Pass E; exercises/testable-claims empty.
 
 **Verification:** Diff ids against Ch.1–4; read findings against rubric; pressure-test physical-reality stack guide if Ch.5 touches it.
 

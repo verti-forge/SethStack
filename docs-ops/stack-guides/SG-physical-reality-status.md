@@ -2,7 +2,7 @@
 
 **Stack id:** `SG-physical-reality-status`  
 **Kind:** Angle stack (with supporting Distinctions)  
-**Through:** Seth Speaks Ch.1–4  
+**Through:** Seth Speaks Ch.1–5  
 **Job:** A reading and pressure-test instrument for every later sentence that says “camouflage,” “illusion,” “physical,” or “not real.”
 
 This is not a belief pitch and not a manifestation manual. It is a tool for keeping one of the framework’s most abuse-prone territories from collapsing into either naive materialism (“only the solid counts”) or cheap discard (“it’s all fake, so nothing matters”).
@@ -29,6 +29,8 @@ Use it while extracting. Use it while writing findings. Use it when two digests 
 | B | Ch.2 | Creation–perception intimacy | Physical is one valid guise; senses specialized |
 | C | Ch.3 | Purposive form + illusion language | If “illusion,” then caused + purposeful |
 | D | Ch.4 | Senses-as-lenses; living webs; play-serious | Senses form what they seem to perceive (part of camouflage); camouflage = vital webs; seeing props ≠ discard the play |
+
+Ch.5: coexisting camouflage systems + operational matter via coordinate intensity — **reinforcement only** (Test 6); no Pass E. Creation/EM sibling absorbed the real thickening (`coordinate-point-activation`, intensity-not-valence).
 
 Append future rows here when a pass earns the revision trigger below. Do not rewrite Pass A–D prose for mere reinforcement.
 
@@ -169,7 +171,8 @@ Do not expand those chains here. They belong to the **creation / EM** stack guid
 | Ch.2 findings / digest | `docs-ops/chapter-reviews/SS-ch02-findings.md`, `SS-ch02-digest.md` |
 | Ch.3 findings / digest | `docs-ops/chapter-reviews/SS-ch03-findings.md`, `SS-ch03-digest.md` |
 | Ch.4 findings / digest | `docs-ops/chapter-reviews/SS-ch04-findings.md`, `SS-ch04-digest.md` |
-| Graph sources | `data/seth-speaks/chapter-0{1,2,3,4}.yaml` |
+| Ch.5 findings / digest | `docs-ops/chapter-reviews/SS-ch05-findings.md`, `SS-ch05-digest.md` |
+| Graph sources | `data/seth-speaks/chapter-0{1,2,3,4,5}.yaml` |
 | Stack index | `docs-ops/stack-guides/README.md` |
 
 ---

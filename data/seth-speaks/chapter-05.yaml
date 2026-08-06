@@ -1,0 +1,124 @@
+# Seth Speaks — Chapter 5 extraction
+# How thoughts form matter / coordination points.
+# Distinctions-first. Reuse Ch.3 EM spine; do not remint thought-to-matter / EM units / intensity-of-thought.
+
+# --- Distinctions ---
+
+- id: symbols-vs-transmitted-reality
+  label: Carrier Symbols vs Transmitted Reality
+  type: Distinction
+  axis: [carrier-symbols, transmitted-reality]
+  table:
+    - [Letters/ink/paper treated as the information itself, Letters are symbols that transmit meaning not contained in the marks]
+    - [Physical objects treated as the reality they stand for, Objects are symbols that transmit a deeper reality]
+    - [Words equated with the feeling they try to express, Gap between thought/feeling and its symbolic expression]
+  source: Seth Speaks, Chapter 5
+
+- id: coexisting-camouflage-systems
+  label: Coexisting Camouflage Systems
+  type: Distinction
+  axis: [mutually-nonperceiving-systems, merge-at-coordinate-points]
+  table:
+    - [One exclusive physical object-world fills space, Other consciousnesses coexist in the same space under different camouflage]
+    - [Systems sealed with no contact, Realities can coincide at double-reality / coordinate points]
+    - [Space as empty container of solid things, Space filled with subordinate energy points that support transformation]
+  source: Seth Speaks, Chapter 5
+
+- id: intensity-neutral-materialization
+  label: Content Valence vs Intensity Magnitude
+  type: Distinction
+  axis: [content-valence-matters-for-emergence, intensity-magnitude-drives-emergence]
+  table:
+    - [Pleasant thoughts materialize; fearful ones do not (or vice versa), Intensity alone accelerates projection into matter]
+    - [Moral quality of the feeling decides physical emergence, Coordinate points intensify whatever activates them neutrally]
+    - [Weak imagination is safer than vivid fear, Highly intense vivid imagery forms events swiftly — constructive or disastrous]
+  source: Seth Speaks, Chapter 5
+
+# --- Mechanisms ---
+
+- id: coordinate-point-activation
+  label: Coordinate Point Activation
+  type: Mechanism/Process
+  summary: Absolute, main, and subordinate coordinate points are traces of pure dormant energy; emotional intensity within normal range activates subordinate points, charging and accelerating thoughts/emotions into physical matter. Points also channel and transform energy across realities.
+  source: Seth Speaks, Chapter 5
+  first_appearance: Seth Speaks, Chapter 5
+  dependencies: [electromagnetic-units-of-thought, intensity-of-thought, camouflage]
+  relates_to: [thought-to-matter-transformation, coexisting-camouflage-systems, psychic-warp-openings, intensities-of-experience]
+  quotes:
+    - "When a thought or emotion attains a certain intensity, it automatically attracts the power of one of these subordinate points, and is therefore highly charged"
+    - "These points are like invisible power plants, in other words, activated when any emotional feeling or thought of sufficient intensity comes into contact."
+  status: partial
+  notes: Absolute/main point locations and full technical behavior deferred ("not the time nor place"; other Seth material). Geographic conducive neighborhoods and pyramid longevity are teaching color — not graph locations. Stays partial by design.
+
+# --- Assertions ---
+
+- id: objects-as-symbols-of-inner-expression
+  label: Objects as Symbols of Inner Expression
+  type: Assertion
+  summary: Physical objects are natural by-products of species evolution as methods of expression — created as surely as words, not merely manufactured by hands; environment comes as naturally from the inner mind as speech from the mouth.
+  source: Seth Speaks, Chapter 5
+  first_appearance: Seth Speaks, Chapter 5
+  dependencies: [symbols-vs-transmitted-reality, you-create-your-physical-reality, consciousness-creates-form]
+  relates_to: [environment-as-extension-of-self, mind-creates-matter, camouflage, creation-perception-intimacy]
+  quotes:
+    - "objects are also symbols that stand for a reality whose meaning the objects, like the letters, transmit."
+    - "man forms physical objects as unselfconsciously and as automatically as he forms his own breath."
+  status: stable
+  notes: Literal claim, not slogan. Separates carrier (ink/paper/object) from transmitted reality.
+
+- id: materialization-by-intensity-not-valence
+  label: Materialization by Intensity Not Valence
+  type: Assertion
+  summary: Intensity of feeling, thought, or mental image is the core that forms EM units and determines how soon corresponding physical events appear — whether the image is fearful or joyful. Highly intense pessimistic imagery reproduces disaster as faithfully as constructive imagery reproduces luck.
+  source: Seth Speaks, Chapter 5
+  first_appearance: Seth Speaks, Chapter 5
+  dependencies: [intensity-of-thought, electromagnetic-units-of-thought, intensity-neutral-materialization]
+  relates_to: [you-create-your-physical-reality, thought-to-matter-transformation, coordinate-point-activation]
+  quotes:
+    - "The intensity of a feeling or thought or mental image is, therefore, the important element in determining its subsequent physical materialization."
+    - "This would apply whether the mental image was a fearful one or a joyful one."
+  status: stable
+  notes: "Keep separate from you-create-your-physical-reality — that is responsibility/ontology of creation; this is the intensity-regardless mechanism that makes careless thought bite. NPR-likely restatement surface."
+
+- id: mental-image-emotion-blueprint
+  label: Mental Image Plus Emotion as Blueprint
+  type: Assertion
+  summary: Mental images accompanied by strong emotion are blueprints upon which corresponding physical objects, conditions, or events appear; thoughts and emotions begin their journey into physical actualization at conception.
+  source: Seth Speaks, Chapter 5
+  first_appearance: Seth Speaks, Chapter 5
+  dependencies: [materialization-by-intensity-not-valence, electromagnetic-units-of-thought]
+  relates_to: [thought-to-matter-transformation, coordinate-point-activation, you-create-your-physical-reality]
+  quotes:
+    - "Mental images, accompanied by strong emotion, are blueprints therefore upon which a corresponding physical object, or condition or event, will in your terms appear."
+  status: stable
+
+# --- Concepts ---
+
+- id: coordinate-points
+  label: Coordinate Points
+  type: Concept
+  summary: "Accumulations of pure dormant energy — absolute (four intersecting all realities), main, and subordinate (vast in number) — that act as channels, warps/paths between realities, and transformers providing generating energy for continuous creation. Not physical/visible; activated only nonphysically by emotional intensity."
+  source: Seth Speaks, Chapter 5
+  first_appearance: Seth Speaks, Chapter 5
+  dependencies: [consciousness, camouflage]
+  relates_to: [coordinate-point-activation, coexisting-camouflage-systems, thought-to-matter-transformation, psychic-warp-openings]
+  quotes:
+    - "There are four absolute coordinate points that intersect all realities."
+    - "Your space is filled with these subordinate points, and as you will see later, these are important in allowing you to transform thoughts and emotions into physical matter."
+  status: partial
+  tags: [mechanism-support, ontology]
+  notes: Locations of main/absolute points and full angle geometry deferred. Gravity-wavering clue and plant-growth neighborhoods are teaching color, not graphable place nodes.
+
+- id: cellular-electromagnetic-web
+  label: Cellular Electromagnetic Web
+  type: Concept
+  summary: Electromagnetic energy units rise from all consciousness including cellular consciousness, forming an invisible network throughout the atmosphere upon which particles of physical matter are formed.
+  source: Seth Speaks, Chapter 5
+  first_appearance: Seth Speaks, Chapter 5
+  dependencies: [electromagnetic-units-of-thought, consciousness]
+  relates_to: [thought-to-matter-transformation, cooperative-consciousness, no-dead-matter]
+  quotes:
+    - "This includes cellular consciousness as well, so that an invisible network of electromagnetic units pervades your entire atmosphere; and upon this webwork and from it, the particles of physical matter are then formed."
+  status: stable
+  tags: [mechanism-support]
+  notes: Thickens Ch.3 EM stack; does not remint electromagnetic-units-of-thought.
