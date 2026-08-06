@@ -57,3 +57,8 @@ STATE: Eng cleanup P0–P3 complete. Assumption held: validate was coupled to SQ
 OPEN LOOPS: T007 Ch.5; MAYBE AnglePass decision before NPR; MAYBE stack-guide deferred polish #2–3; creation/EM and senses/root-assumptions guides when earned.
 NEXT 3: T007 Ch.5 extraction; curator AnglePass decision when NPR approaches; second stack guide only when promotion rule fires.
 
+
+### 2026-08-06 03:35
+STATE: Review-layer upgrades U1-U5 complete before Ch.5. U1 added the testable-claims register to the rubric; bounded Ch.1-4 retrofit skim found no trivial historical backfill worth forcing into old findings. U2 added `docs-ops/EXERCISES.md`, the chair-friendly closeout ritual, and Ch.1-4 exercise crossrefs (`EX-01` from Ch.2 dream-change suggestion, `EX-02` from Ch.4 inner-senses stage exercise). U3 added `docs-ops/PRACTICE_VAULT.md` plus a hard wall in `AGENT_CONTRACT.md` forbidding vault reads/writes during chapter passes. U4a built `docs-ops/ECHO_INDEX.md`. U4b Ch.2 experiment verdict: bleed detected - echo context nudged naming/selection toward cross-chapter rhyme material versus the chapter-local canonical pass. U5 stopped at the curator checkpoint with `docs/ADR-001-anglepass.md`: recommendation is keep AnglePass tracking prose-only / ledger-based for now (Option C), with explicit revisit triggers; no schema change implemented.
+OPEN LOOPS: Curator approval or rejection of ADR-001 if any AnglePass implementation is desired; Handoff B (T007 Ch.5 then T008 Ch.6); possible rerun of the bleed experiment later with a pre-declared scoring rubric if higher-confidence measurement is needed.
+NEXT 3: Run Handoff B for Ch.5; then Ch.6; then revisit AnglePass only if ADR triggers fire or the curator requests implementation.
