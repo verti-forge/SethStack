@@ -59,7 +59,7 @@
   type: Distinction
   axis: [continuity-similarity-focus, change-dissimilarity-focus]
   table:
-    - [Attend to continuities/similarities; manufacture stable self/world, Attend to constant alteration (breath, atoms, hormones, EM)]
+    - ["Attend to continuities/similarities; manufacture stable self/world", "Attend to constant alteration (breath, atoms, hormones, EM)"]
     - [Shut out dissimilarities from a field of actuality, Dissimilarities reveal true nature of reality and environment]
     - [Thought/memory cliff into nothingness feared, Subjective openings are psychic warps into other universes]
   source: Seth Speaks, Chapter 3
@@ -226,7 +226,7 @@
 - id: physical-reality-purposive-form
   label: Physical Reality as Purposive Form
   type: Assertion
-  summary: If physical reality is illusion in a larger sense, it is an illusion caused by a greater reality; the illusion has purpose and meaning. Better: physical reality is one form reality takes — intense training in a small aspect of experience.
+  summary: "If physical reality is illusion in a larger sense, it is an illusion caused by a greater reality; the illusion has purpose and meaning. Better: physical reality is one form reality takes — intense training in a small aspect of experience."
   source: Seth Speaks, Chapter 3
   first_appearance: Seth Speaks, Chapter 3
   dependencies: [illusion-vs-greater-reality-cause, camouflage]
