@@ -30,7 +30,8 @@ Rules for humans and agents continuing work in this repo. Operating surface: `do
    - Distinctions (contrast) and **Angle passes** (same claim, new precision) are both first-class
    - Every chapter pass produces **findings + digest** (digest ~200-1500 words, density-scaled)
    - Track Mechanism chain completeness; record forward plants in findings - **do not mint empty YAML nodes for deferrals**
-   - Adjacent-framework notes are echoes only, never equivalence`r`n   - `docs-ops/PRACTICE_VAULT.md` is never read or written during chapter extraction or curation work
+   - Adjacent-framework notes are echoes only, never equivalence
+   - docs-ops/PRACTICE_VAULT.md is never read or written during chapter extraction or curation work
 
 ## Doc map
 
@@ -44,7 +45,8 @@ Rules for humans and agents continuing work in this repo. Operating surface: `do
 | `docs-ops/FIELD_GUIDE.md` | Paragraph orientation (start here for humans) |
 | `docs-ops/REVIEW_RUBRIC.md` | Chapter extraction/review discipline |
 | `docs-ops/FRAMEWORK_SOUNDNESS.md` | Rolling Distinction/Mechanism/Angle board |
-| `docs-ops/EXERCISES.md` | Capture-only catalog of reader-directed exercises |`r`n| `docs-ops/PRACTICE_VAULT.md` | Private append-only results log for EX-* attempts |
+| docs-ops/EXERCISES.md | Capture-only catalog of reader-directed exercises |
+| docs-ops/PRACTICE_VAULT.md | Private append-only results log for EX-* attempts |
 | `docs-ops/chapter-reviews/` | Per-chapter findings + digests |
 | `docs-ops/stack-guides/` | Cross-chapter stack instruments (pilot: physical reality status) |
 
@@ -59,4 +61,5 @@ Rules for humans and agents continuing work in this repo. Operating surface: `do
 - `dist/` = generated outputs (not source of truth)
 
 Do not invent `docs/05`-`08` requirements unless the human expands the scaffold.
+
 
