@@ -19,8 +19,8 @@ Local TypeScript tool for structuring Seth notes into a validated, graphable kno
 ## Current status
 
 - Curated through **Seth Speaks Ch.4** with findings, digests, and pilot stack guide `docs-ops/stack-guides/SG-physical-reality-status.md`
-- Local validate restored on Windows (Node 24 + `better-sqlite3` 13.x); Ch.1–4 YAML validates (86 items). `dist/` regenerable via `npm run all`.
-- Eng remaining after this pass: see Progress / T003–T004 until closed
+- Local validate restored on Windows (Node 24 + `better-sqlite3` 13.x); Ch.1–4 YAML validates (86 items). **`dist/` regenerable** via `npm run all`.
+- Eng T002–T004 closed (2026-08-05). Next curation: T007 Ch.5.
 
 ## Usage
 

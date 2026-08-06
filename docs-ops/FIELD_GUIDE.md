@@ -61,6 +61,8 @@ Analogies are especially sneaky. Onion skins, computers, TV screens, Empire Stat
 
 ## One-stack reminders (so far)
 
+Canonical index as stacks multiply: `docs-ops/stack-guides/README.md`.
+
 - **Thought-form and EM units** are one stack, not two rival systems: emotional counterparts / thought-forms sit beneath matter intensity; EM units are the substrate language. *(Guide candidate — not written yet.)*
 - **Camouflage / guise / purposive illusion** is one Angle stack on physical reality’s status — protect it; do not flatten to “all fake” or “all solid.” **Guide live:** `docs-ops/stack-guides/SG-physical-reality-status.md`
 - **Consciousness creates form** (ontology) and **you create your physical reality** (responsibility) stay separate Assertions even when they rhyme.
@@ -86,9 +88,10 @@ Open YAML freely to curate. Reach for a digest or stack guide when you need orie
 - **Distinction** — a named contrast with two poles; a framework joint.
 - **Angle pass** — a new-angle restatement of the same claim that adds precision or cuts a misread.
 - **Assertion** — a load-bearing claim (stable or contested).
+- **Concept** — a named structure that needs a graph home without yet being a contrast, process, or load-bearing claim.
 - **Mechanism** — a process chain with steps; often partial while Seth defers.
 - **Forward plant** — an explicit “later” promise tracked in review, not as an empty node.
-- **Leak** — material we wisely leave out of the graph.
+- **Leak** / **leak filter** — material we wisely leave out of the graph (session color, jokes, pure analogies, rhetoric).
 - **Root assumptions** — built-in agreements a reality system runs on (e.g. space and time), in Seth’s vocabulary.
 - **Camouflage** — physical form as a specialized appearance of a deeper vitality/reality.
 - **Findings** — compressed chapter review.

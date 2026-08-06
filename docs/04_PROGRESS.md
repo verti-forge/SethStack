@@ -47,3 +47,13 @@ STATE: Session closeout. Through SS Ch.4: Distinctions/Angle-pass method, dual-t
 OPEN LOOPS: Ch.5+; creation/EM and senses/root-assumptions guides; MAYBE #2–3; Eng T002–T004; better-sqlite3 on this machine.
 NEXT 3: Re-enter via Field Guide → latest digest → Soundness; Ch.5 when energy returns; apply eng validate when native build allows.
 
+### 2026-08-05 22:20
+STATE: Reentry brief → synced root README + stale `docs/` status. README now states through-Ch.4 with asterisk: local validate blocked on Windows by better-sqlite3 (Ch.3–4 not pipeline-confirmed). T005 note → Ch.1–4; T007 Ch.5 extraction added; T002 acceptance requires README usage-note update on completion. Architecture lists stack-guides; Risks adds unvalidated Ch.3–4 bullet + retargeted Mechanism steps[] unknown. docs-ops/ and src/ untouched.
+OPEN LOOPS: T007 Ch.5; eng T002–T004 (validate blocked); MAYBE deferred #2–3; creation/EM and senses/root-assumptions guides.
+NEXT 3: Restore local validate (retire Risks/README SQLite asterisk); T007 Ch.5 when energy returns; or T002 CLI dispatch (and update README mode note).
+
+### 2026-08-05 22:45
+STATE: Eng cleanup P0–P3 complete. Assumption held: validate was coupled to SQLite via `runAll()`. P0: better-sqlite3 9→13.x installed clean on Node 24 (prebuilds); stage-split so validate never imports db; mechanical YAML fixes (Ch.3 summary quote; Ch.2/3 Distinction table cells with commas). Validate green: 86 items. `npm run all` smoke OK — dist regenerable (graph/report/sqlite). P1 T002 dispatch + README. P2 T003 dangling-ref errors (default fail; `--allow-dangling`) + T004 `node:test` (5 passing on this Windows host). P3: Field Guide Concept + stack-guides index line; AnglePass decision note in MAYBE; Risks/Architecture asterisks retired. No curator judgment list — no dangling refs in live data; no judgment-flavored YAML edits.
+OPEN LOOPS: T007 Ch.5; MAYBE AnglePass decision before NPR; MAYBE stack-guide deferred polish #2–3; creation/EM and senses/root-assumptions guides when earned.
+NEXT 3: T007 Ch.5 extraction; curator AnglePass decision when NPR approaches; second stack guide only when promotion rule fires.
+
