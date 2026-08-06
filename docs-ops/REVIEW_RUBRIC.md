@@ -1,4 +1,4 @@
-# Chapter Review Rubric
+﻿# Chapter Review Rubric
 
 Operating rules for each Seth Speaks (or adjacent) chapter pass. Graph YAML stays lean; soundness judgment lives in findings + `FRAMEWORK_SOUNDNESS.md`. Human memory lives in digests + `FIELD_GUIDE.md`.
 
@@ -22,6 +22,7 @@ Every chapter pass produces **both**:
 | **Identity architecture** | Entity / fragment / ego / portion maps | Concepts + findings |
 | **Perception stack** | Senses → camouflage → environment | Distinctions + Angle passes + Concepts |
 | **Forward plants** | Deferred explanations | Findings only (no empty YAML children) |
+| **Testable claims** | Specific enough to be wrong; historical, physiological, or world-checkable claims | Findings only (capture + falsifier, never adjudicate in-pass) |
 | **Cross-chapter tensions** | Claim restated, narrowed, or stressed | Findings + `FRAMEWORK_SOUNDNESS.md` |
 | **Leak audit** | Wisely not graphed | Findings + digest |
 
@@ -43,6 +44,21 @@ For each Mechanism in findings, record:
 - **Missing / deferred** — what waits on later text
 - **Depends on Distinction(s)** — which axis must hold for the chain to make sense
 - **Status** — align with YAML: `partial` | `complete` | `asserted`
+
+## Testable-claims register
+
+For each testable claim in findings, record:
+
+- **id/anchor** — node id or chapter+passage anchor
+- **Claim (compressed)** — one line only
+- **What would falsify it** — written at capture time; mandatory
+- **Status** — `uncheckable` | `unchecked` | `checked-hit` | `checked-miss`
+
+Rules:
+
+- Capture only. Do not research or adjudicate during a chapter pass.
+- Empty section is valid.
+- If you cannot write a falsification condition, the claim does not belong in this register and should remain ordinary framework material.
 
 ## Extraction posture
 
@@ -75,10 +91,12 @@ Create `docs-ops/chapter-reviews/SS-chNN-findings.md` with:
 5. Load-bearing assertions (ranked)
 6. Identity / perception stack
 7. Forward plants
-8. Leak audit
-9. Adjacent echoes (≤5 bullets from the fixed set)
-10. Ongoing findings (append-only dated bullets)
-11. Open questions (≤5)
+8. Testable claims
+9. Leak audit
+10. Adjacent echoes (≤5 bullets from the fixed set)
+11. Ongoing findings (append-only dated bullets)
+12. Open questions (≤5)
+13. Exercises captured: `EX-NN, ...` or `none`
 
 ## Per-chapter digest template
 
