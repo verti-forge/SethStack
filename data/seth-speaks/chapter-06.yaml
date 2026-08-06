@@ -153,25 +153,23 @@
   source: Seth Speaks, Chapter 6
   first_appearance: Seth Speaks, Chapter 6
   dependencies: [electromagnetic-units-of-thought, soul-is-what-you-are, soul-not-closed-system]
-  relates_to: [entity, personality-continues-within-soul, form-vs-identity-stability]
+  relates_to: [entity, personality-continues-within-soul, form-vs-identity-stability, static-soul-vs-becoming-soul]
   quotes:
     - "The soul can be considered as an electromagnetic energy field, of which you are part."
     - "In a manner of speaking, you continually create your soul as it continually creates you."
   status: stable
   tags: [identity, ontology]
-  notes: Prefer relating to existing EM units over reminting EE vocabulary.
+  notes: "Angle on entity (who/what) as EM-field gestalt + mutual create — relates to entity, does not remint. Prefer existing EM units over reminting EE vocabulary."
 
-- id: soul-perception-power-exercise
-  label: Soul Perception Power Exercise
-  type: Concept
-  summary: After reading to this point, close eyes and sense the source of power from which breathing and life forces come; then sense that power flowing outward through the body in all directions to the farthest reaches of the universe. Begins with imagination but is based on fact — emanations of consciousness and soul creativity do reach outward that way.
+- id: consciousness-emanations-reach-outward
+  label: Consciousness Emanations Reach Outward
+  type: Assertion
+  summary: Emanations from consciousness and the creativity of the soul reach outward through physical being and beyond — undiminished through earth and sky. An accompanying reader exercise may begin with imagination, but the outward reach itself is based on fact.
   source: Seth Speaks, Chapter 6
   first_appearance: Seth Speaks, Chapter 6
   dependencies: [soul-is-what-you-are, soul-not-closed-system]
-  relates_to: [packaged-physical-perception-vs-soul-direct-perception]
+  relates_to: [universe-as-idea-construction, packaged-physical-perception-vs-soul-direct-perception]
   quotes:
-    - "Close your eyes after having read this chapter to this point, and try to sense within yourself the source of power from which your own breathing and life forces come."
-    - "Now I do not mean this to be merely a symbolic exercise, for though it may begin with imagination, it is based upon fact"
+    - "Now I do not mean this to be merely a symbolic exercise, for though it may begin with imagination, it is based upon fact, and emanations from your consciousness and the creativity of your soul do indeed reach outward in that manner."
   status: stable
-  tags: [exercise, pedagogy]
-  notes: Catalogued as EX-03 in docs-ops/EXERCISES.md.
+  notes: "Ontology only. Procedure lives solely in docs-ops/EXERCISES.md as EX-03 — do not mint exercise-shaped Concept nodes."

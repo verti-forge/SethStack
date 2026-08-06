@@ -91,6 +91,7 @@ Excluded: virginity/gift-to-God rhetoric as ontology; psychologist ego/subconsci
 - Senses/root-assumptions candidacy strengthened by perception packaging Distinction — Progress only.
 - `play-root-assumptions` vs `root-assumptions` — no new evidence; keep open.
 - Aware-guides / Seth identity collapse — still open.
+- **Post-pass:** dropped exercise-shaped Concept `soul-perception-power-exercise`; ontology kept as Assertion `consciousness-emanations-reach-outward`. EX-03 remains sole exercise home. Pattern: do not mint Concept nodes whose primary content is exercise procedure.
 
 ## 12. Open questions
 
