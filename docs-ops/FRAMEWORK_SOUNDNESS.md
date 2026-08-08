@@ -4,20 +4,20 @@ Cross-chapter board for Seth Speaks extraction. Updated after each chapter findi
 Rubric: `docs-ops/REVIEW_RUBRIC.md`  
 **Prefer reading:** `docs-ops/FIELD_GUIDE.md` → latest `SS-chNN-digest.md` → stack guide if touching a protected stack → this file’s Overall read.
 
-**Last updated:** 2026-08-08 (SG-creation-em promoted)
+**Last updated:** 2026-08-08 (through Ch.7)
 
 ## Overall read
 
-Through Ch.6 the framework adds a full **soul/entity identity architecture** pass: soul is what you are (not possession); becoming/open; personality continues; packaged senses vs soul-direct perception. Creation spine thickened via idea construction without reminting `you-create`. Physical-reality status still Pass A–D only (Ch.5–6 reinforcement). **Creation/EM stack guide now live** (Pass A–D). Biggest watches: aware-guides vs Seth still open; senses/root-assumptions guide still a candidate.
+Through Ch.7 the framework opens **soul potentials**: other forms from intense desire; perception as pitch among coexistent levels; astral ≠ thought projection; river of consciousness; sleep as probable-event selection; ego blinders as trained. Creation/EM and physical-reality guides both live; Ch.7 is reinforcement only on both (no new Pass E). Probable-realities thickened. Biggest watches: aware-guides vs Seth still open; senses/root-assumptions still a candidate guide.
 
 ## Angle stacks to protect
 
-- Camouflage → guise → purposive form → **Pass D (Ch.4)** — **guide:** [SG-physical-reality-status.md](stack-guides/SG-physical-reality-status.md) (Ch.5–6 reinforcement only)
-- Consciousness-creates-form → you-create → EM transformers → mind-creates-matter → intensity-not-valence / coordinates (Ch.5) → idea construction (Ch.6) — **guide:** [SG-creation-em.md](stack-guides/SG-creation-em.md) (Pass A–D live)
-- Thought-forms / EM units = one stack (`soul-as-ee-gestalt` relates; do not remint)
-- Consciousness-as-attribute / actor vs multidimensional identity — **Ch.6 thickens** (soul-is-what-you-are; personality-continues)
-- Simultaneous reincarnational dramas (candidate later — Ch.6 light touch via probable-realities plant)
-- Senses / root assumptions — **candidacy** (Ch.2–4 earned; Ch.6 perception packaging strengthens; not written)
+- Camouflage → guise → purposive form → **Pass D (Ch.4)** — **guide:** [SG-physical-reality-status.md](stack-guides/SG-physical-reality-status.md) (Ch.5–7 reinforcement)
+- Consciousness-creates-form → you-create → EM → intensity/coordinates → idea construction — **guide:** [SG-creation-em.md](stack-guides/SG-creation-em.md) (Ch.7 intensity→pseudoform reinforces Pass C)
+- Thought-forms / EM units = one stack (Ch.7 desire-projection thickens `multiple-simultaneous-forms`)
+- Consciousness-as-attribute / actor vs multidimensional identity — Ch.6–7 (supersystem-self; personality never swallowed)
+- Simultaneous reincarnational dramas + **probable pasts/presents/futures** (Ch.7 thickens)
+- Senses / root assumptions — **candidacy** (not written)
 
 ## Active Distinction axes
 
@@ -50,6 +50,11 @@ Through Ch.6 the framework adds a full **soul/entity identity architecture** pas
 | `static-soul-vs-becoming-soul` | Ch.6 | holds | Citadel vs open powerhouse |
 | `personality-absorbed-vs-personality-continues` | Ch.6 | holds | |
 | `packaged-physical-perception-vs-soul-direct-perception` | Ch.6 | holds | |
+| `single-body-locale-vs-other-forms` | Ch.7 | holds | |
+| `perceived-pitch-vs-coexistent-levels` | Ch.7 | holds | Braces camouflage / status Pass B |
+| `astral-form-vs-thought-projection` | Ch.7 | holds | Anti-collapse joint |
+| `one-stream-vs-river-of-consciousness` | Ch.7 | holds | |
+| `ego-as-trained-dam-vs-expanding-interpreter` | Ch.7 | holds | Blinders taught, not natural |
 
 ## Mechanism backlog (partial chains)
 
@@ -69,6 +74,8 @@ Through Ch.6 the framework adds a full **soul/entity identity architecture** pas
 | `sleep-refresh-beyond-play` | Link to dream methods / depth-sleep | info from within |
 | `coordinate-point-activation` | Absolute/main locations; angle geometry; other Seth material | — |
 | `depth-sleep-pure-perception` | Detection conditions; lab pinpoint | packaged vs soul-direct |
+| `intense-desire-form-projection` | Instrument detection; control | intensity; astral vs thought-projection |
+| `sleep-probable-event-selection` | Recall methods | probable pasts/presents/futures |
 
 **Closed at chapter level (Ch.3):** `thought-to-matter-transformation`, `body-as-thought-materialization`.
 
@@ -93,13 +100,15 @@ sequential-time-vs-simultaneous-lives
 
 ## Tension watchlist
 
-- **Camouflage stack** — Pass D; Ch.5–6 reinforcement only
+- **Camouflage stack** — Pass D; Ch.5–7 reinforcement only
 - **Linear “past life” diction** vs simultaneous-lives — watch later
 - **Root assumptions** vs **camouflage** — separate guide candidate; `play-root-assumptions` still open
 - **Intensity-not-valence** vs **you-create** — do not slogan-merge
-- **Aware role guides** vs Seth identity — **still open** (no Ch.6 evidence)
+- **Aware role guides** vs Seth identity — **still open** (no evidence through Ch.7)
 - **inner-self-messenger** vs **inner-ego** — watch subsume vs parallel
-- Consciousness-as-attribute vs ego poles — still open
+- **supersystem-self** vs **entity** — parallel Angle; do not remint
+- **astral-form** vs **multiple-simultaneous-forms** — keep Distinction
+- Consciousness-as-attribute vs ego poles — Ch.7 ego-blinders thickens; still open
 
 ## Forward-plant ledger (global)
 
@@ -110,15 +119,18 @@ sequential-time-vs-simultaneous-lives
 - Deeper EM elsewhere (Ch.3; Ch.5 coordinates)
 - Warp-following practice
 - Play observers (Ch.4) — still open
-- Environment-change methods (Ch.4) — **soft arrival Ch.6** (idea-construction clues; methods still later)
-- How you create each minute — thickened Ch.5–6; not closed as how-to
+- Environment-change methods (Ch.4) — soft arrival Ch.6; methods still later
+- How you create each minute — thickened Ch.5–7; not closed as how-to
 - Hatred → love (Ch.4 later) — still open
 - Absolute/main coordinate locations + full EE technical (Ch.5)
 - Freedom-use methods (Ch.5)
-- Probable realities detail (Ch.6)
+- Probable realities — **thickened Ch.7** (pasts/presents/futures + sleep selection); fuller map still open
 - God concept / religion portion (Ch.6)
 - Intuitive soul-knowledge methods toward end of book (Ch.6)
 - Practical alter-daily-life methods (Ch.6)
+- Deep-sleep recall methods (Ch.7)
+- Fuller astral mechanics (Ch.7)
+- Body-pulsation reasons deferred (Ch.7)
 
 ## Chapter index
 
@@ -130,3 +142,4 @@ sequential-time-vs-simultaneous-lives
 | 4 | `docs-ops/chapter-reviews/SS-ch04-findings.md` | `SS-ch04-digest.md` |
 | 5 | `docs-ops/chapter-reviews/SS-ch05-findings.md` | `SS-ch05-digest.md` |
 | 6 | `docs-ops/chapter-reviews/SS-ch06-findings.md` | `SS-ch06-digest.md` |
+| 7 | `docs-ops/chapter-reviews/SS-ch07-findings.md` | `SS-ch07-digest.md` |

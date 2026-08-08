@@ -1,0 +1,170 @@
+# Seth Speaks — Chapter 7 extraction
+# The potentials of the soul.
+# Distinctions-first. Reuse multiple-simultaneous-forms, probable-realities, intensity, entity; do not remint.
+
+# --- Distinctions ---
+
+- id: single-body-locale-vs-other-forms
+  label: Single Body Locale vs Other Forms
+  type: Distinction
+  axis: [one-form-one-place, other-forms-elsewhere]
+  table:
+    - [Only the perceived physical body exists as your form, Other forms exist and are created for various purposes without physical perception]
+    - [Identity locked inside the body, Identity mainly involved with body but not limited to it]
+    - [You can only be in one place at one time, Intense desire can project a pseudophysical replica elsewhere]
+  source: Seth Speaks, Chapter 7
+
+- id: perceived-pitch-vs-coexistent-levels
+  label: Perceived Pitch vs Coexistent Levels
+  type: Distinction
+  axis: [perceive-only-at-matter-pitch, coexistent-lesser-and-greater-validities]
+  table:
+    - [Only what coalesces into matter is real, Realities exist validly at other levels below and above perceived pitch]
+    - [Space is where nothing is, Space is filled with phenomena that make no impression on senses]
+    - [This system is the most intense energy concentration, This system is simply the one you are tuned into]
+  source: Seth Speaks, Chapter 7
+
+- id: astral-form-vs-thought-projection
+  label: Astral Form vs Thought Projection
+  type: Distinction
+  axis: [astral-form, intense-desire-thought-projection]
+  table:
+    - [Seaside pseudoimage is the astral body leaving, Seaside image is thought/emotion projection — not the astral form]
+    - [Astral form deserts body for long stretches in such cases, Astral form does not desert the body for any length of time]
+    - [Physical body independent of astral, Physical body is the materialization of the astral form]
+  source: Seth Speaks, Chapter 7
+
+- id: one-stream-vs-river-of-consciousness
+  label: One Stream vs River of Consciousness
+  type: Distinction
+  axis: [single-waking-stream, deeper-river-of-identity]
+  table:
+    - [Stream of consciousness is the whole of identity, Stream of consciousness is one small stream in a deeper river]
+    - [Other perceptions are exotic add-ons, Other streams are equally active aspects of the same identity]
+    - [Creativity comes from one narrow focus, Great creativity dips into many streams — multidimensional origin]
+  source: Seth Speaks, Chapter 7
+
+- id: ego-as-trained-dam-vs-expanding-interpreter
+  label: Ego as Trained Dam vs Expanding Interpreter
+  type: Distinction
+  axis: [ego-naturally-restrictive, ego-trained-to-wear-blinders]
+  table:
+    - [Ego's nature is to dam other perceptions, Blinders are taught — not the ego's natural function]
+    - [Ego is weak and must defend against stronger self areas, Ego wants to understand and interpret physical reality]
+    - [Inflexible ego proves restriction is natural, Inflexibility comes from denied perception; then you call the result natural]
+  source: Seth Speaks, Chapter 7
+
+# --- Mechanisms ---
+
+- id: intense-desire-form-projection
+  label: Intense Desire Form Projection
+  type: Mechanism/Process
+  summary: Intense mental acts (thought/emotion) construct physical or pseudophysical forms bearing the imprint of the personality. A vivid desire to be elsewhere can project a replica image there; greater intensity can impart a portion of consciousness so the projector briefly perceives that environment. Distinct from astral projection.
+  source: Seth Speaks, Chapter 7
+  first_appearance: Seth Speaks, Chapter 7
+  dependencies: [intensity-of-thought, multiple-simultaneous-forms, form-follows-consciousness]
+  relates_to: [materialization-by-intensity-not-valence, coordinate-point-activation, thought-to-matter-transformation, astral-form-vs-thought-projection]
+  quotes:
+    - "If you have, for example, a highly vivid desire to be somewhere else, then without realizing it consciously a pseudophysical form, identical with your own, may appear in that very spot."
+    - "This discussion does not concern the so-called astral form, which is something entirely different."
+  status: partial
+  notes: Thickens Ch.2 multiple-simultaneous-forms; detection/instrument claims deferred. Do not remint multiple-simultaneous-forms.
+
+- id: sleep-probable-event-selection
+  label: Sleep Probable Event Selection
+  type: Mechanism/Process
+  summary: In deep sleep you are highly active — communicate with other identity portions, maintain/revitalize the physical image, process daily experience, project it into the future, and choose from an infinity of probable events those you will make physical. Morning recall usually captures only a dressed-up final dream version.
+  source: Seth Speaks, Chapter 7
+  first_appearance: Seth Speaks, Chapter 7
+  dependencies: [probable-realities, depth-sleep-pure-perception, one-stream-vs-river-of-consciousness]
+  relates_to: [dream-environment-manipulation, you-create-your-physical-reality, reincarnational-drama]
+  quotes:
+    - "you process daily experience, project it into what you think of as the future, choose from an infinity of probable events those you will make physical, and begin the mental and psychic processes that will bring them into the world of substance."
+  status: partial
+  notes: Methods to recall planted for later. Thickens probable-realities and depth-sleep without reminting.
+
+# --- Assertions ---
+
+- id: body-energy-pulsation
+  label: Body Energy Pulsation
+  type: Assertion
+  summary: The physical body is not one continuous thing; because of the nature of energy and its construction it is in a constant state of pulsation — blinking off and on. You are physically "not here" as often as you are.
+  source: Seth Speaks, Chapter 7
+  first_appearance: Seth Speaks, Chapter 7
+  dependencies: [form-follows-consciousness, electromagnetic-units-of-thought]
+  relates_to: [perceived-pitch-vs-coexistent-levels, camouflage, continuity-focus-vs-change-focus]
+  quotes:
+    - "It is nevertheless in a constant state of pulsation, and because of the nature of energy and its construction, the body is actually blinking off and on."
+  status: stable
+  notes: "Teaching claim — do not stretch into testable-claims without a real falsifier at capture."
+
+- id: creativity-is-multidimensional
+  label: Creativity Is Multidimensional
+  type: Assertion
+  summary: Great creativity requires dipping into other streams of consciousness; its origin is from many realities, appears greater than pure physical dimension, and reminds each person of multidimensional identity.
+  source: Seth Speaks, Chapter 7
+  first_appearance: Seth Speaks, Chapter 7
+  dependencies: [one-stream-vs-river-of-consciousness, multidimensional-personality]
+  relates_to: [work-vs-play-creativity, actor-role-vs-multidimensional-identity]
+  quotes:
+    - "Great creativity is then multidimensional for this reason. Its origin is not from one reality, but from many, and it is tinged with the multiplicity of that origin."
+  status: stable
+
+- id: probable-pasts-presents-futures
+  label: Probable Pasts Presents Futures
+  type: Assertion
+  summary: You accept only certain classifications of events as real; probable pasts exist outside that selection, and there are probable futures and presents. After death perception is freer of the time game, but even then multiplicity remains.
+  source: Seth Speaks, Chapter 7
+  first_appearance: Seth Speaks, Chapter 7
+  dependencies: [probable-realities, sequential-time-vs-simultaneous-lives]
+  relates_to: [sleep-probable-event-selection, reincarnational-drama, time-continuity-vs-associative-continuity]
+  quotes:
+    - "There are also probable pasts therefore, that exist quite outside your comprehension."
+    - "There are then, obviously, probable futures and probable presents."
+  status: stable
+  notes: Thickens Ch.6 probable-realities plant; does not remint that Concept id.
+
+# --- Concepts ---
+
+- id: nested-validity-tables
+  label: Nested Validity Tables
+  type: Concept
+  summary: Analogy — behind/before/beside any perceived physical object are less-physical counterparts fading toward invisibility, and relatively more-valid "super" counterparts; you perceive only when realities achieve a certain pitch and seem to coalesce into matter.
+  source: Seth Speaks, Chapter 7
+  first_appearance: Seth Speaks, Chapter 7
+  dependencies: [perceived-pitch-vs-coexistent-levels, camouflage]
+  relates_to: [creation-perception-intimacy, intensities-of-experience, coordinate-points]
+  quotes:
+    - "You only perceive realities when they achieve a certain \"pitch,\" when they seem to coalesce into matter. But they actually exist, and quite validly at other levels."
+  status: stable
+  tags: [ontology, analogy]
+  notes: Analogy for coexistent levels — leak filter keeps nested furniture from becoming place nodes.
+
+- id: astral-form
+  label: Astral Form
+  type: Concept
+  summary: Distinct from intense-desire thought projections. The physical body is the materialization of the astral form; the astral form does not desert the body for any length of time in the seaside-projection cases discussed.
+  source: Seth Speaks, Chapter 7
+  first_appearance: Seth Speaks, Chapter 7
+  dependencies: [astral-form-vs-thought-projection, form-follows-consciousness]
+  relates_to: [multiple-simultaneous-forms, intense-desire-form-projection]
+  quotes:
+    - "The physical body is the materialization of the astral form."
+  status: partial
+  tags: [identity]
+  notes: Thin introduction; fuller astral mechanics deferred.
+
+- id: supersystem-self
+  label: Supersystem Self
+  type: Concept
+  summary: Other portions of yourself inhabit a supersystem of reality handling stronger energy concentrations and different forms. Using analogy, you are sent out by a superself that desired physical existence — you are no puppet; you add to its experience and draw on its abilities; you are never swallowed by it.
+  source: Seth Speaks, Chapter 7
+  first_appearance: Seth Speaks, Chapter 7
+  dependencies: [entity, personality-continues-within-soul, soul-is-what-you-are]
+  relates_to: [fragment-selves, multidimensional-personality, actor-role-vs-multidimensional-identity]
+  quotes:
+    - "You are, using an analogy again, sent out by a superself who strongly desired existence in physical form. You are no puppet of this superself."
+    - "Nor will you ever be swallowed by the self that in these terms seems so superior."
+  status: partial
+  tags: [identity]
+  notes: "Angle on entity — relates, does not remint. Braces personality-continues against absorption fear."

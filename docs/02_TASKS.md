@@ -152,3 +152,22 @@ Ordered, acceptance-first. Work one task at a time.
 **Verification:** Diff ids against Ch.1–5; read findings against rubric; dangling-ref glance under live linker; pressure-test physical-reality stack guide if Ch.6 touches it; note stack-guide candidacy in Progress only (do not write guides).
 
 **Safety / rollback:** Remove `chapter-06.yaml` and Ch.6 findings/digest; revert soundness/progress/EXERCISES edits.
+
+---
+
+## T009 — Ch.7 extraction + findings
+
+**Description:** Extract Seth Speaks Chapter 7 into `data/seth-speaks/chapter-07.yaml` (Distinctions-first; protect creation/EM and identity stacks; thicken probable-realities / multiple forms without remint), then complete T005 for Ch.7.
+
+**Files likely touched:** `data/chapters/SethSpeaks/CHAPTER 7.txt`, `data/seth-speaks/chapter-07.yaml`, `docs-ops/chapter-reviews/SS-ch07-findings.md`, `SS-ch07-digest.md`, `docs-ops/FRAMEWORK_SOUNDNESS.md`, possibly `docs-ops/stack-guides/`
+
+**Acceptance:**
+- [x] Ch.7 YAML ids unique across `data/**/*.yaml`
+- [x] Mechanism chains record known vs deferred steps
+- [x] T005 acceptance met for Ch.7 (findings + digest + soundness + progress)
+
+**Status note:** Done 2026-08-08. Validate 121 items; dangling none. Exercises none; testable-claims empty; no Pass E on either live stack guide.
+
+**Verification:** Diff ids against Ch.1–6; read findings against rubric; validate + dangling-ref glance; pressure-test `SG-creation-em` and physical-reality status if touched.
+
+**Safety / rollback:** Remove `chapter-07.yaml` and Ch.7 findings/digest; revert soundness/progress edits.

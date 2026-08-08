@@ -2,7 +2,7 @@
 
 **Stack id:** `SG-creation-em`  
 **Kind:** Angle stack (Mechanism-heavy sibling)  
-**Through:** Seth Speaks Ch.1–6  
+**Through:** Seth Speaks Ch.1–7  
 **Job:** A reading and pressure-test instrument for every later sentence that says “you create,” “thought becomes matter,” “intensity,” “electromagnetic,” or “idea construction.”
 
 This is not a manifestation manual and not a belief pitch. It is a tool for keeping the creation → EM → matter spine from collapsing into slogan mush, reminted chapter variants, or metaphor-only readings that the text does not support.
@@ -31,6 +31,8 @@ Use it while extracting. Use it while writing findings. Use it when two digests 
 | B | Ch.3 | EM units + transformers; `thought-to-matter-transformation` / `mind-creates-matter` / `body-as-thought-materialization` | Operational chain; influence ≠ create |
 | C | Ch.5 | Coordinates + `materialization-by-intensity-not-valence` | Intensity drives emergence regardless of valence; subordinate points accelerate |
 | D | Ch.6 | `universe-as-idea-construction` | Soul attribute of materializing thought/emotion; clues ≠ methods |
+
+Ch.7: intense desire → pseudophysical forms; thickens `multiple-simultaneous-forms` — **reinforcement only** of Pass C (Test 7); no Pass E. Astral ≠ thought-projection Distinction braces the Mechanism.
 
 Append future rows only when a pass earns the revision trigger below. Do not rewrite Pass A–D prose for mere reinforcement.
 
@@ -183,7 +185,8 @@ Core Mechanism spine (this guide’s home):
 | Ch.3 findings / digest | `docs-ops/chapter-reviews/SS-ch03-findings.md`, `SS-ch03-digest.md` |
 | Ch.5 findings / digest | `docs-ops/chapter-reviews/SS-ch05-findings.md`, `SS-ch05-digest.md` |
 | Ch.6 findings / digest | `docs-ops/chapter-reviews/SS-ch06-findings.md`, `SS-ch06-digest.md` |
-| Graph sources | `data/seth-speaks/chapter-0{1,3,5,6}.yaml` (spine); Ch.2/4 for bracing Distinctions |
+| Ch.7 findings / digest | `docs-ops/chapter-reviews/SS-ch07-findings.md`, `SS-ch07-digest.md` |
+| Graph sources | `data/seth-speaks/chapter-0{1,2,3,5,6,7}.yaml` (spine); Ch.4 for bracing Distinctions |
 | Stack index | `docs-ops/stack-guides/README.md` |
 
 ---

@@ -107,3 +107,8 @@ STATE: Second stack guide live — `docs-ops/stack-guides/SG-creation-em.md` (Pa
 OPEN LOOPS: Ch.7+ curation; senses/root-assumptions guide candidacy; aware-guides vs Seth; play-root-assumptions vs root-assumptions; forward plants (observers, env-change methods, hatred→love, god concept, probable realities); ADR-001 if revisit fires; MAYBE #2–3 deferred.
 NEXT 3: Ch.7 when ready; or senses/root-assumptions guide if synthesis preferred again; re-enter Field Guide → SS-ch06-digest → Soundness → `SG-creation-em` when pressure-testing creation language.
 
+### 2026-08-08 (T009)
+STATE: T009 Ch.7 done. Distinctions-first (`single-body-locale-vs-other-forms`, `perceived-pitch-vs-coexistent-levels`, `astral-form-vs-thought-projection`, `one-stream-vs-river-of-consciousness`, `ego-as-trained-dam-vs-expanding-interpreter`); Mechanisms `intense-desire-form-projection` + `sleep-probable-event-selection` partial; thickened `multiple-simultaneous-forms` / `probable-realities` without remint. Findings + digest + Soundness through Ch.7. Both stack guides: reinforcement only — **no Pass E**. Validate **121 items**; **dangling refs: none**. Registers: exercises **none**; testable-claims **empty**. New-node rate ~13 (health band).
+OPEN LOOPS: Ch.8+; senses/root-assumptions guide candidacy; aware-guides vs Seth; play-root-assumptions vs root-assumptions; forward plants (observers, env-change methods, hatred→love, god concept, deep-sleep recall methods, astral detail); ADR-001 if revisit fires.
+NEXT 3: Ch.8 when ready; or senses/root-assumptions guide; re-enter Field Guide → SS-ch07-digest → Soundness → `SG-creation-em` / physical-reality status as needed.
+
