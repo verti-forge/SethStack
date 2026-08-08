@@ -4,16 +4,16 @@ Cross-chapter board for Seth Speaks extraction. Updated after each chapter findi
 Rubric: `docs-ops/REVIEW_RUBRIC.md`  
 **Prefer reading:** `docs-ops/FIELD_GUIDE.md` → latest `SS-chNN-digest.md` → stack guide if touching a protected stack → this file’s Overall read.
 
-**Last updated:** 2026-08-06 (through Ch.6)
+**Last updated:** 2026-08-08 (SG-creation-em promoted)
 
 ## Overall read
 
-Through Ch.6 the framework adds a full **soul/entity identity architecture** pass: soul is what you are (not possession); becoming/open; personality continues; packaged senses vs soul-direct perception. Creation spine thickened via idea construction without reminting `you-create`. Physical-reality status still Pass A–D only (Ch.5–6 reinforcement). Biggest watches: aware-guides vs Seth still open; creation/EM and senses/root-assumptions guides are **candidates** (not written yet).
+Through Ch.6 the framework adds a full **soul/entity identity architecture** pass: soul is what you are (not possession); becoming/open; personality continues; packaged senses vs soul-direct perception. Creation spine thickened via idea construction without reminting `you-create`. Physical-reality status still Pass A–D only (Ch.5–6 reinforcement). **Creation/EM stack guide now live** (Pass A–D). Biggest watches: aware-guides vs Seth still open; senses/root-assumptions guide still a candidate.
 
 ## Angle stacks to protect
 
 - Camouflage → guise → purposive form → **Pass D (Ch.4)** — **guide:** [SG-physical-reality-status.md](stack-guides/SG-physical-reality-status.md) (Ch.5–6 reinforcement only)
-- Consciousness-creates-form → you-create → EM transformers → mind-creates-matter → intensity-not-valence / coordinates (Ch.5) → **idea construction (Ch.6)** — **creation/EM guide candidacy** (≥3 passes; not written)
+- Consciousness-creates-form → you-create → EM transformers → mind-creates-matter → intensity-not-valence / coordinates (Ch.5) → idea construction (Ch.6) — **guide:** [SG-creation-em.md](stack-guides/SG-creation-em.md) (Pass A–D live)
 - Thought-forms / EM units = one stack (`soul-as-ee-gestalt` relates; do not remint)
 - Consciousness-as-attribute / actor vs multidimensional identity — **Ch.6 thickens** (soul-is-what-you-are; personality-continues)
 - Simultaneous reincarnational dramas (candidate later — Ch.6 light touch via probable-realities plant)

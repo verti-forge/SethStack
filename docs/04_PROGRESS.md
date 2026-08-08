@@ -102,3 +102,8 @@ NEXT 3: **Default — write creation/EM stack guide** (synthesis over ingestion;
 
 Chair-friendly: **EX-03** — close eyes, sense the source of power behind breathing, then sense it radiating outward in all directions; begins in imagination but is not merely symbolic.
 
+### 2026-08-08
+STATE: Second stack guide live — `docs-ops/stack-guides/SG-creation-em.md` (Pass A Ch.1 create/responsibility → B Ch.3 EM chain → C Ch.5 intensity-neutral/coordinates → D Ch.6 idea construction). Wired into stack-guides index, Soundness, sibling pointers from `SG-physical-reality-status`, README. Intensity-not-valence kept separate from you-create; remint/geography failure modes named. No Ch.7; no YAML changes; validate still 108 / zero dangling (untouched).
+OPEN LOOPS: Ch.7+ curation; senses/root-assumptions guide candidacy; aware-guides vs Seth; play-root-assumptions vs root-assumptions; forward plants (observers, env-change methods, hatred→love, god concept, probable realities); ADR-001 if revisit fires; MAYBE #2–3 deferred.
+NEXT 3: Ch.7 when ready; or senses/root-assumptions guide if synthesis preferred again; re-enter Field Guide → SS-ch06-digest → Soundness → `SG-creation-em` when pressure-testing creation language.
+

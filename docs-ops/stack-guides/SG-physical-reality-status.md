@@ -107,7 +107,7 @@ Related Distinctions that brace the stack:
 
 **Collapse to pure relativism.** You keep “many guises” and drop that each guise is a real expression with consequences (body mirrors subjective state; transformers materialize intensity). Result: no Mechanism can land; thought→matter becomes metaphor-only against the text’s grain.
 
-**Slogan merge with responsibility.** Mixing this stack into “you create your reality” until ontology and ethics become one blob. Keep `consciousness-creates-form` / `mind-creates-matter` nearby but **do not let this guide absorb the creation/EM stack** — that is a sibling guide candidate.
+**Slogan merge with responsibility.** Mixing this stack into “you create your reality” until ontology and ethics become one blob. Keep `consciousness-creates-form` / `mind-creates-matter` nearby but **do not let this guide absorb the creation/EM stack** — that is the sibling guide [SG-creation-em.md](SG-creation-em.md).
 
 **False equation with other systems.** Idealism, Buddhist emptiness language, simulation talk may *rhyme*. They are not this stack. Echoes live in findings; identity claims get cut.
 
@@ -148,7 +148,7 @@ This status stack is the *ontological frame* in which Mechanisms make sense:
 - `body-as-thought-materialization` — inner self grows the body; condition mirrors subjective state  
 - `environment-as-extension-of-self` — environments as materialized mental acts  
 
-Do not expand those chains here. They belong to the **creation / EM** stack guide when you promote it. Mention them only to remember: if physical reality were “fake-only,” these Mechanisms would be theater; the text treats them as operational inside a purposive band.
+Do not expand those chains here. They belong to the **creation / EM** stack guide: [SG-creation-em.md](SG-creation-em.md). Mention them only to remember: if physical reality were “fake-only,” these Mechanisms would be theater; the text treats them as operational inside a purposive band.
 
 ---
 
@@ -177,6 +177,7 @@ Do not expand those chains here. They belong to the **creation / EM** stack guid
 | Ch.6 findings / digest | `docs-ops/chapter-reviews/SS-ch06-findings.md`, `SS-ch06-digest.md` |
 | Graph sources | `data/seth-speaks/chapter-0{1,2,3,4,5,6}.yaml` |
 | Stack index | `docs-ops/stack-guides/README.md` |
+| Sibling creation/EM guide | `docs-ops/stack-guides/SG-creation-em.md` |
 
 ---
 
@@ -187,4 +188,4 @@ Do not expand those chains here. They belong to the **creation / EM** stack guid
 - Illusion language **only** with greater-reality cause + purpose.  
 - Senses are camouflage **lenses**; webs are living vitality — Pass D.  
 - Collapse either to solid-only or fake-only = framework failure.  
-- Pressure-test later chapters; append ledger rows only for new constraints; don’t slogan-merge with the creation stack.
+- Pressure-test later chapters; append ledger rows only for new constraints; don’t slogan-merge with the creation stack — use [SG-creation-em.md](SG-creation-em.md).
